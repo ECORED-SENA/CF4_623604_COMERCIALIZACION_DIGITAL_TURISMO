@@ -175,7 +175,6 @@ export default {
         icono: 'fas fa-sitemap',
         titulo: 'Síntesis',
         nombreRuta: 'sintesis',
-        desarrolloContenidos: true,
       },
       {
         nombreRuta: 'actividad',
@@ -210,138 +209,146 @@ export default {
       },
     ],
   },
-  complementario: [
+  referencias: [
     {
-      tema: 'Modelo Canvas',
-      referencia: 'Modelo Canvas',
-      tipo: 'Video YouTube',
-      link: 'https://www.youtube.com/watch?v=7B8bGB0CZVI',
+      referencia:
+        'Abarca Zaquinaula, M (s.f.). Propuesta de un modelo alternativo de funcionamiento del sistema turístico.',
+      link:
+        'https://repositorio.pucesa.edu.ec/bitstream/123456789/2224/1/Sistema%20Tur%C3%ADstico.pdf',
     },
     {
-      tema: '<em>Benchmarking</em>',
-      referencia: '<em>Str. (s.f.). STR Benchmarking. Str.</em> ',
-      tipo: 'Página web',
-      link: 'https://str.com/',
+      referencia:
+        'Boullón, R. C. (2006). Planificación del Espacio Turístico. Trillas. Cordente Rodríguez, M; Mondéjar Jiménez, J.A; Esteban Talaya, A (s.f.). Motivaciones del turista: cambio de paradigma. Universitat Jaume I.',
+      link:
+        'https://www2.fue.uji.es/gesfue2/doc_fue/docs/jornadas/15turismo/motivaciones.pdf',
     },
     {
-      tema: '<em>Benchmarking</em>',
-      referencia: '<em>Str. (s.f.). Introducing dSTAR</em> ',
-      tipo: 'Video YouTube',
-      link: 'https://www.youtube.com/watch?v=NfUUQ5dir6c',
+      referencia:
+        'Gurría, M. (2004). Introducción al Turismo. Editorial Trillas. Ledhesma, M (2018). Tipos de turismo: nueva clasificación.',
+      link:
+        'https://frrq.cvg.utn.edu.ar/pluginfile.php/15091/mod_resource/content/0/Tipos%20de%20turismo%2C%20nueva%20clasificaci%C3%B3n%20-%20Manuel%20Ledhesma.pdf',
+    },
+    {
+      referencia:
+        'Martinez Espin, P. (2009). El contrato de viaje combinado. Ediciones la Universidad de Castilla. Marketing de pymes (2021). Fitur 2021 y las nuevas tendencias del Turismo.',
+      link:
+        'https://www.marketingdepymes.com/fitur-2021-y-las-nuevas-tendencias-del-turismo/',
+    },
+    {
+      referencia:
+        'Mincetur. (2014). Manual para la Planificación de Productos Turísticos de Perú. MINCETUR.',
+    },
+    {
+      referencia:
+        'Navarro, D. (2015). Recursos turísticos y atractivos turísticos: conceptualización, clasificación y valoración. Cuadernos de Turismo, 35, (2015), 335-357.',
+      link: 'https://www.redalyc.org/pdf/398/39838701014.pdf',
+    },
+    {
+      referencia:
+        'Norma Técnica Sectorial Colombiana NTSH 006 del 2009. Clasificación de establecimientos de alojamiento y hospedaje. Categorización por estrellas de hoteles. Requisitos.',
+    },
+    {
+      referencia:
+        'OSTELEA, Tourism Management School (2019). Qué tipos de turismo existen y cuáles triunfarán en 2020.',
+      link:
+        'https://www.ostelea.com/actualidad/blog-turismo/que-tipos-de-turismo-existen-y-cuales-triunfaran-en-2020',
+    },
+    {
+      referencia: 'Procolombia (2021). Cinco tendencias para viajar en 2021',
+      link:
+        'https://procolombia.co/noticias/cinco-tendencias-para-viajar-en-2021 ',
+    },
+    {
+      referencia:
+        'Rolando León, L (2012). Diseño de paquetes turísticos para la fundación duchicela, parroquia cacha, cantón riobamba, provincia de chimborazo. [Tesis de pregrado Ingeniería en ecoturismo].',
+    },
+    {
+      referencia:
+        'Sernatur - Servicio Nacional de Turismo (2017). Manual de diseño experiencias turísticas. Subdirección de Desarrollo-Chile.',
+      link:
+        'https://www.sernatur.cl/wp-content/uploads/2018/11/MDD-Manual-de-Experiencias-Turi%CC%81sticas-1.pdf',
+    },
+    {
+      referencia:
+        'Subdirección de Productos y Destinos Sustentables SERNATUR (2015). Manual Paso a paso para el Diseño de Productos Turísticos integrados.',
+      link:
+        'https://asesoresenturismoperu.files.wordpress.com/2016/08/244-manual-productos-turc3adsticos-chile.pdf',
     },
   ],
   glosario: [
     {
-      termino: 'ARI - <em>Average Rate Index</em>',
+      termino: 'Experiencia turística',
       significado:
-        'Es otro índice en la industria hotelera, describe cómo está la tarifa promedio frente a la competencia.',
+        'sensaciones y emociones, interpretadas por el turista, con base a una serie de estímulos durante todas las fases de contacto con el producto turístico.',
     },
     {
-      termino: '<em>Branding</em>',
+      termino: 'Prestadores de servicios turísticos',
       significado:
-        'Es el término que se refiere a las acciones de construcción y fortalecimiento de una marca.',
+        'empresas que proporcionan, intermedian o contratan directa o indirectamente con el turista, para la prestación de los servicios turísticos.',
     },
     {
-      termino: '<em>Buyer </em> persona',
+      termino: 'Producto turístico',
       significado:
-        'Es la forma como en la industria del marketing digital se denomina al público objetivo, el perfil de esta persona será la representación del cliente que la empresa desea y es a este a quien dirige su estrategia de contenido',
+        'es la combinación de atractivos y servicios, materiales e inmateriales, que posteriormente ofrecerán al mercado los diferentes actores de la cadena (operadores, guías, medios), para satisfacer una demanda turística.',
     },
     {
-      termino: 'Contenidos',
+      termino: 'Turismo',
       significado:
-        'Son los textos, fotografías, videos, ilustraciones, sonidos, diseños y la combinación de ellos. En general es lo que el consumidor digital ve y escucha en publicaciones digitales. El contenido es de suma importancia en medios digitales y sobre todo en el medio turístico, no en vano se afirma que el contenido es el rey. De hecho, asociado a él, hay una práctica denominada <em>“marketing</em> de contenidos” que se enfoca en atraer <em>leads</em> por medio de contenido especializado.',
+        'actividades que realizan las personas durante sus viajes y estancias en lugares distintos a su entorno habitual durante un período de tiempo inferior a un año.',
     },
     {
-      termino: '<em>Conversión</em>',
+      termino: 'Turismo sostenible',
       significado:
-        'Este término hace referencia a lograr transformar los prospectos <em>(leads)</em> en ventas reales (clientes). Es el final de la estrategia digital enfocada en ingresos.',
-    },
-    {
-      termino: '<em>Copy</em>',
-      significado:
-        'En mercadeo y publicidad el <em>copy</em> hace referencia al texto de los anuncios, es decir, las frases o palabras que en conexión con la imagen o video logran captar la atención y motivar al público para que se enganche con el negocio.',
-    },
-    {
-      termino: '<em>Engagement</em>',
-      significado:
-        'En su traducción más pura este término significa compromiso, en mercadeo se utiliza este término para describir la aptitud que tiene una marca para generar compromiso con los clientes y crear una relación sana y estable.',
-    },
-    {
-      termino: '<em>Inbound</em>',
-      significado:
-        'Este término hace referencia a las estrategias dirigidas a captar nuevos prospectos y convertirlos en clientes, a través de lo que se conoce como un embudo de ventas.',
-    },
-    {
-      termino: 'KPI-s',
-      significado:
-        'Es la sigla de <em>(Key performance indicator)</em>, indicadores clave de desempeño. Estos se convierten en puntos de referencia para medir la efectividad de una estrategia digital',
-    },
-    {
-      termino: '<em>Lead</em>',
-      significado:
-        'Es un término normalizado en la industria digital para referirse a los usuarios que ingresan a su sitio web y se registran en él. Estos se consideran clientes potenciales toda vez que brindan a la empresa sus datos de contacto de forma voluntaria, ya sea para recibir ofertas o concretar una futura compra u otros.',
-    },
-    {
-      termino: 'MPI - <em>Market Penetration Index</em>',
-      significado:
-        'Es un índice de referencia en la industria hotelera y detalla la penetración en el mercado comparada con un set de competidores.',
-    },
-    {
-      termino: 'RevPAR',
-      significado:
-        'Es el acrónimo de <em>Revenue per Available Room</em>. El RevPar es el indicador más utilizado en la industria hotelera, porque brinda de manera simple y exacta un informe de situación y comparación con el mercado y con el set competitivo.',
-    },
-    {
-      termino: 'RGI  - <em> Revenue Generation Index</em>',
-      significado:
-        'Es también un índice de referencia en hotelería y habla de la generación de ingresos respecto al set competitivo.',
-    },
-    {
-      termino: 'SEO & SEM',
-      significado:
-        'A nivel general son las formas cómo se posiciona un sitio web en las búsquedas para ser hallados por los clientes. El SEM se basa en anuncios pagos y el SEO en optimización de búsquedas.',
+        'Persigue desarrollar su actividad generando un impacto mínimo sobre el medioambiente.',
     },
   ],
-  referencias: [
+  complementario: [
     {
+      tema: 'Evolución del turismo',
       referencia:
-        'Cooper, A. (2004). The inmates are running the Asylum. Indianapolis Sams Publishing.Jiménez, L. (2021). Cómo definir objetivos de marketing y cumplirlos.',
-      link: 'https://www.luciajimenezvida.es/definir-objetivos-de-marketing/',
-    },
-    {
-      referencia:
-        'Mochón, F. (2004). Economía y turismo: prácticas. McGraw-Hill España.',
+        'Redacción El Tiempo. (16 de octubre 2008). 25 Hitos de la historia del turismo colombiano. EL TIEMPO.',
+      tipo: 'Artículo',
       link:
-        'https://elibro-net.bdigital.sena.edu.co/es/ereader/senavirtual/50066?page=75',
+        'file:///D:/SENA/PROGRAMA%20DE%20DISE%C3%91O%20INSTRUCCIONAL/COMERCIALIZACI%C3%93N%20DIGITAL%20PARA%20EL%20TURISMO/COMPONENTES/CF01/ANEXOS%20VIEJOS/Anexo%204-CF1_1.5-%20hitos%20de%20la%20historia%20del%20turismo%20colombiano.pdf',
     },
     {
+      tema: 'Producto Turístico',
       referencia:
-        'Osterwalder, A. & Pigneur, Y. (2011). Generación de modelos de Negocio. Deusto.',
+        'Nicolau, J. (s.f.). El precio de los productos turísticos. Universidad de Alicante. Facultad de ciencias económicas y empresariales.',
+      tipo: 'Documento de apoyo',
+      link: 'https://rua.ua.es/dspace/bitstream/10045/16114/8/Tema%208.pdf',
     },
     {
-      referencia: 'Peñalver, P. (2020). We are marketing. ',
+      tema: 'Ruta turística',
+      referencia:
+        'Ministerio de Comercio y FONTUR. (s.f.). Cinco rutas turísticas para visitar Colombia.',
+      tipo: 'Página oficial',
       link:
-        'https://www.wearemarketing.com/es/blog/como-crear-mi-buyer-persona-y-que-herramientas-necesito-para-hacerlo.html',
+        'https://fontur.com.co/es/eventos/estas-son-las-5-nuevas-rutas-turisticas-que-mincomercio-y-fontur-tienen-para-ti ',
     },
     {
+      tema: 'Sustentabilidad turística',
       referencia:
-        'Porter, M. & Bueno, E. (2013). Técnicas para el análisis de la empresa y sus competidores. Ediciones Pirámide.',
-    },
-    {
-      referencia:
-        'PostgradoUTP. (2021). Estrategias competitivas: ¿cómo funcionan y cómo se adaptan a los tiempos de cambio? Universidad tecnológica del Perú. ',
+        'Organización de las Naciones Unidas y Organización Mundial del Turismo. (2001). Código de ética Mundial. ',
+      tipo: 'Libro- Documento',
       link:
-        'https://www.postgradoutp.edu.pe/blog/a/estrategias-competitivas-como-funcionan-y-como-se-adaptan-a-los-tiempos-de-cambio/#:~:text=Las%20estrategias%20competitivas%20son%20las,terreno%20frente%20a%20la%20competencia',
+        'https://www.ugto.mx/images/eventos/06-07-16/codigo-etico-mundial-turismo.pdf',
     },
     {
+      tema: 'Colombia turística',
       referencia:
-        'Rockcontent. (2017). Productos vs. servicios. ¿Cómo diferenciarlos?',
-      link: 'https://rockcontent.com/es/blog/producto-o-servicio/',
+        'Colombia.co. (s.f.). 12 lugares que no puedes dejar de ver en Colombia.',
+      tipo: 'Página web Colombia.co',
+      link:
+        'https://www.colombia.co/visita-colombia/experiencias-unicas/12-lugares-que-no-puedes-dejar-de-ver-en-colombia/',
     },
     {
+      tema: 'Colombia turística',
       referencia:
-        'RD Station. (2021). Buyer persona: qué es y por qué es importante.',
-      link: 'https://www.rdstation.com/es/blog/buyer-persona/',
+        'Colombia.Travel. (s.f.). Conéctate con la faceta más salvaje de Colombia a través de sus lugares turísticos.',
+      tipo: 'Página web Colombia.travel',
+      link:
+        'https://colombia.travel/es/blog/preparate-con-esta-lista-de-lugares-para-visitar-y-viaja-por-colombia',
     },
   ],
   creditos: {
@@ -355,45 +362,30 @@ export default {
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Responsable Equipo de desarrollo curricular',
+        cargo: 'Asesor metodológico y pedagógico',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Harbey Castelblanco',
-        cargo: 'Experto Temático',
-        centro: 'Centro Nacional Colombo Alemán',
-      },
-      {
-        nombre: 'Fabio Alberto Ramírez Ayala',
-        cargo: 'Experto Temático',
-        centro: 'Centro Agropecuario la Granja - Regional Tolima',
-      },
-      {
-        nombre: 'Zuleidy María Ruiz Torres',
-        cargo: 'Experta Temática',
-        centro: 'Centro Agropecuario la Granja - Regional Tolima',
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
         nombre: 'Luisa Fernanda Posada Hincapié',
-        cargo: 'Experta Temática',
-        centro: 'Centro de Comercio, Industria y Turismo - Regional Quindío',
+        cargo: 'Experto temático',
+        centro: 'Regional Quindío - Centro de Comercio, Industria y Turismo',
       },
       {
         nombre: 'María Inés Machado López',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro:
-          'Centro de la industria, la empresa y los servicios - Regional Norte de Santander ',
+          'Regional Norte de Santander - Centro de la Industria, la Empresa y los Servicios',
       },
       {
         nombre: 'Carolina Coca Salazar',
-        cargo: 'Asesor metodológico',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        cargo: 'Asesora metodológica',
+        centro: 'Regional Distrito Capital- Centro de Diseño y Metrología',
       },
       {
-        nombre: 'Julia Isabel Roberto',
-        cargo: 'Correctora de estilo',
-        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital',
+        nombre: 'Jhon Jairo Rodríguez Pérez',
+        cargo: 'Corrector de estilo ',
+        centro: 'Regional Distrito Capital - Centro de Diseño y Metrología',
       },
     ],
     desarrolloProducto: [
@@ -401,44 +393,42 @@ export default {
         nombre: 'Francisco José Lizcano Reyes',
         cargo: 'Responsable del equipo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Leyson Fabian Castaño Pérez',
+        nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Fabian Zarate',
-        cargo: 'Diseño web',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Sandra Milena Triana Pinto',
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: 'Jorge Enrique Haylock Calderín',
         cargo: 'Desarrollo front-end',
         centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
-      },
-      {
-        nombre: 'Nombre',
-        cargo: 'Validación de diseño y contenido',
-        centro:
-          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
         cargo: 'Validación y vinculación en plataforma LMS',
-        centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
     ],
   },
