@@ -5,11 +5,13 @@
   
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
-        span
-          i.fas.fa-info
-      h1 Introducción
+        span(style="color: #161730") i
     
-</template>
+      h1 Introducción
+    p Se da la bienvenida al componente formativo “Bases del plan de mercadeo digital - Análisis situacional”, para comenzar el recorrido por el mismo, visite el recurso didáctico que se muestra a continuación:
+    figure.mb-5(data-aos="fade-up")
+      .video
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)</template>
 
 <script>
 export default {
