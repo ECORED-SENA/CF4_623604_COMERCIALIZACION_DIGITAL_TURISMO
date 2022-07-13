@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecored-sena.github.io/CF4_623604_COMERCIALIZACION_DIGITAL_TURISMO/](https://ecored-sena.github.io/CF4_623604_COMERCIALIZACION_DIGITAL_TURISMO/)
 
 #
 
