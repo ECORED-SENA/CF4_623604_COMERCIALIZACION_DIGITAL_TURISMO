@@ -32,7 +32,7 @@
             p Luego de tener un listado preliminar se puede determinar cómo afectan nuestra cuota de mercado, quienes son sus clientes, cuáles son sus precios medios, la posición competitiva, mapas de localización y todos los datos primarios que se consideren importantes.
             p Para organizarlos se puede hacer en tres tipos genéricos de competidores que la industria ha determinado, tal como se observa en el siguiente recurso educativo:
     TabsC.color-primario(data-aos="fade-up-left").mb-5
-      .py-3.py-md-4(titulo="Competidores directoso de primer grado")
+      .py-3.py-md-4(titulo="Competidores directos o de primer grado")
         .row.justify-content-around
           .col-md-8.mb-4.mb-md-0
             p Son aquellas empresas que:
@@ -49,7 +49,7 @@
               li 
                 i.fa.fa-dot-circle(style="color: #FF854E")
                 | Servicios o productos iguales o parecidos.
-            p Para ejemplificar en el campo hotelero, para Hilton, su competencia directa es Marriott.
+            p Para ejemplificar en el campo hotelero, para #[em Hilton], su competencia directa es #[em Marriott].
           .col-md-4
             figure
               img(src='@/assets/curso/tema3/img03.svg', alt='Texto que describa la imagen')
@@ -70,7 +70,7 @@
               li 
                 i.fa.fa-dot-circle(style="color: #FF854E")
                 | Producto o servicio difiere en alguno de sus atributos principales.
-            p Para seguir con el mismo ejemplo Coca-Cola, en este caso su competencia indirecta podrían ser otros hoteles, como GHL, Estelar.
+            p Para seguir con el mismo ejemplo Coca-cola, en este caso su competencia indirecta podrían ser otros hoteles, como GHL, Estelar.
           .col-md-4
             figure
               img(src='@/assets/curso/tema3/img04.svg', alt='Texto que describa la imagen')
@@ -126,15 +126,15 @@
               p Por ejemplo, la empresa es una tienda de barrio. Analizar y valorar cifras de los competidores más cercanos para poder establecer un plan de acción, de choque o de lanzamiento.
           .row(titulo="Nivel <em>online</em>")
             .col-md-11
-              p Este es un nivel en el que debe conducir un análisis focalizado en el ámbito web, plataformas, <em>eCommerce</em>, redes sociales.
+              p Este es un nivel en el que debe conducir un análisis focalizado en el ámbito <em>web</em>, plataformas, <em>eCommerce</em>, redes sociales.
     .row.justify-content-center
       .col-xxl-12.px-5
         .row.justify-content-center.align-items-center
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-left")
-            p Este análisis reviste un cierto grado de complejidad, sobre todo porque hay que tener en cuenta que hoy en día la presencia online podría llevar a una empresa local a tener presencia internacional. 
-            p De una u otra manera la presencia online rompe las barreras físicas y otorga acceso a muchos mercados, a los que quizá antes no era posible acceder. Esto debe tenerse en cuenta según el producto y la naturaleza del negocio.
+            p Este análisis reviste un cierto grado de complejidad, sobre todo porque hay que tener en cuenta que hoy en día la presencia <em>online</em> podría llevar a una empresa local a tener presencia internacional. 
+            p De una u otra manera la presencia <em>online</em> rompe las barreras físicas y otorga acceso a muchos mercados, a los que quizá antes no era posible acceder. Esto debe tenerse en cuenta según el producto y la naturaleza del negocio.
             .cajon.puntacajon.p-4.mb-4.bg3.sombracajon
-              p A manera de ejemplo, el turismo es una industria que, aunque se ubica localmente, a través de la presencia online tiene posibilidad de vender sus servicios a nivel internacional.
+              p A manera de ejemplo, el turismo es una industria que, aunque se ubica localmente, a través de la presencia <em>online</em> tiene posibilidad de vender sus servicios a nivel internacional.
               p Por esta razón, quizá un destino o empresa en particular tenga sus competidores, no a la vuelta de la esquina o en la misma ciudad, sino a varios miles de kilómetros. 
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right")
             img.mt-4(src='@/assets/curso/tema3/img08.png')
@@ -242,7 +242,7 @@
             p El <em>benchmarking</em> o "evaluación comparativa" ocurre alrededor del mundo, en múltiples industrias y en la vida diaria. Seguramente cuando va a hacer una compra, antes de comprar, primero investiga un poco y compara los productos en cuanto a características, precio y calidad, esto en esencia es <em>benchmarking</em>. Esta disciplina es muy relevante en la industria turística, donde constituye la base de trabajo para la analítica de desempeño, el <em>business intelligence</em>business intelligence y el <em>revenue management.</em>
             .cajon.color-secundario.p-4.mb-4.mt-4.fondo1
               p El <em>benchmarking</em> se puede definir como el proceso ordenado y sistemático de recopilar, crear, comparar y analizar indicadores clave de desempeño de su empresa en relación con la competencia. El proceso de <em>benchmarking</em> en la industria hotelera se basa en datos históricos y crea tendencias que ayudan a entender el mercado y el contexto en el que se opera.
-            p Como se mencionó el <em>benchmarking</em> está presente en muchas industrias, pero se tomará la industria hotelera como marco de referencia para describir y entender sus características. Es oportuno mencionar que el referente mundial en <em>benchmarking</em> hotelero es la compañía STR (acrónimo de Smith Travel Research) que posee la base de datos históricos más completa del sector hotelero y como explican en su página web https://str.com/ proporcionan datos confidenciales, precisos y aplicables, por medio de reportes integrales que permiten a los clientes elaborar estrategias y competir dentro de sus mercados.
+            p Como se mencionó el <em>benchmarking</em> está presente en muchas industrias, pero se tomará la industria hotelera como marco de referencia para describir y entender sus características. Es oportuno mencionar que el referente mundial en <em>benchmarking</em> hotelero es la compañía STR (acrónimo de Smith Travel Research) que posee la base de datos históricos más completa del sector hotelero y como explican en su página <em>web</em> #[a(href="https://str.com/" target='_blank') https://str.com] proporcionan datos confidenciales, precisos y aplicables, por medio de reportes integrales que permiten a los clientes elaborar estrategias y competir dentro de sus mercados.
     p.mb-4 Para contextualizar y resumir el <em>benchmarking</em> la siguiente figura ofrece una descripción de sus principales características.
     .row.ampliarambos.fondo12.mb-5
       .col-xxl-12
@@ -256,7 +256,7 @@
       .col-xxl-6.col-xl-6.col-lg-5.col-md-11.col-sm-11.col-11.px-5(data-aos="fade-up-left")
         img(src='@/assets/curso/tema3/img17.png')
       .col-xxl-6.col-xl-6.col-lg-7.col-md-11.col-sm-11.col-11.px-5(data-aos="fade-up-right")
-        p.mb-3 Es claro que medir y comparar el desempeño es un factor relevante en cualquier empresa. Esto no es distinto en la industria turística, en ella los indicadores clave de desempeño se aplican en las mediciones de rendimiento en operación, comercialización y mercadeo. Ahora tomando como referencia el benchmarking de la industria hotelera para medir se puede decir que los indicadores clave de desempeño de la industria son:
+        p.mb-3 Es claro que medir y comparar el desempeño es un factor relevante en cualquier empresa. Esto no es distinto en la industria turística, en ella los indicadores clave de desempeño se aplican en las mediciones de rendimiento en operación, comercialización y mercadeo. Ahora tomando como referencia el <em>benchmarking</em> de la industria hotelera para medir se puede decir que los indicadores clave de desempeño de la industria son:
         ul.lista-ul
           li
             i.fas.fa-check(style="color: #ED7D41")
@@ -266,7 +266,7 @@
             p.mb-0 Índice medio de precio - <span style="color:#EB6F2D!important; font-weight:bold;">ARI</span> <em>(Average Rate Index)</em> o Índice de tarifa promedio.
           li
             i.fas.fa-check(style="color: #ED7D41")
-            p.mb-0 Índice de ingreso generado - <span style="color:#EB6F2D!important; font-weight:bold;">RGI</span> <em>(Revenue Generation Index)</em> o Indice de RevPar.
+            p.mb-0 Índice de ingreso generado - <span style="color:#EB6F2D!important; font-weight:bold;">RGI</span> <em>(Revenue Generation Index) o Indice de RevPar</em>.
       .col-xxl-6.col-xl-6.col-lg-7.col-md-11.col-sm-11.col-11.px-5(data-aos="fade-up-right")
         p.mb-3 Estos índices se generan en la comparación del #[span.etiqueta #[b desempeño propio vs. el desempeño del set competitivo]] y referido a los tres indicadores clave del desempeño hotelero.
         ul.lista-ul
@@ -278,7 +278,7 @@
             p.mb-0 Tarifa promedio (ADR).
           li
             i.fas.fa-check(style="color: #ED7D41")
-            p.mb-0 RevPar.
+            p.mb-0 <em>RevPar</em>.
         p.mb-3 La preocupación por medir y comparar resultados, como ya se mencionó es un hecho subyacente a todas las industrias. Y ahora que se está inmerso en un mundo regido por los datos, la siguiente pregunta que se debe contestar es qué herramienta se debe utilizar para este análisis. La respuesta no es sencilla, ya que como se mencionó, las comparativas y mediciones se aplican en todos los niveles de las industrias (operativo, comercial, y de mercadeo). 
         p.mb-0 Dicho esto, se puede mencionar que existen herramientas <em>(software)</em> que permiten captar, organizar y analizar datos a gran escala, que se podrían utilizar de acuerdo con la necesidad específica. Por ahora solo se menciona.
       .col-xxl-6.col-xl-6.col-lg-5.col-md-11.col-sm-11.col-11.px-5(data-aos="fade-up-left")
@@ -305,7 +305,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Para una mejor comprensión respecto al tema de Introducing dSTAR se recomienda que consulte el siguiente video, en el que podrá aprender más sobre este tema, y lo encuentra en el siguiente enlace: 
+                  p Para una mejor comprensión respecto al tema de  <em>Introducing dSTAR</em> se recomienda que consulte el siguiente video, en el que podrá aprender más sobre este tema, y lo encuentra en el siguiente enlace: 
                 .col-lg-3
                   .mt-3
                     a.boton.me-3.indicador__container(
@@ -347,7 +347,7 @@
         LineaTiempoD
           p(numero="1" titulo="Defina su mercado (Political)") En este punto de la segmentación de mercados debe enfocarse en descubrir qué tan grande es el mercado, dónde encaja su marca y si sus productos tienen la capacidad de solucionar lo que promete.
           p(numero="2" titulo="Segmente  su mercado") Este paso consiste en elegir cuál de los tipos de segmentación de mercado es el que más se adecua a su marca.
-          p(numero="3" titulo="Comprenda su mercado") Realice a sus clientes las preguntas adecuadas, dependiendo del tipo de segmentación de mercados que eligió. Debe conocer a su público objetivo detalladamente. Puede utilizar encuestas online para obtener sus respuestas.
+          p(numero="3" titulo="Comprenda su mercado") Realice a sus clientes las preguntas adecuadas, dependiendo del tipo de segmentación de mercados que eligió. Debe conocer a su público objetivo detalladamente. Puede utilizar encuestas <em>online</em> para obtener sus respuestas.
           p(numero="4" titulo="Construya su segmento de clientes") Después de recolectar las respuestas, es necesario realizar un análisis de datos para crear segmentos dinámicos únicos para su marca.
           p(numero="5" titulo="Ponga a prueba su estrategia") Asegúrese de haber interpretado correctamente los datos de su encuesta, poniéndolos a prueba con su público objetivo. Esto le ayudará a revisar nuevamente sus estrategias de segmentación de mercados y hacer los cambios necesarios. 
     .row.justify-content-center.mb-5

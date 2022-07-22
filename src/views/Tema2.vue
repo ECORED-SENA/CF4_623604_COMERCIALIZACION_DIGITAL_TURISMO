@@ -33,7 +33,7 @@
         LineaTiempoD
           p(numero="1" titulo="Factores políticos <em>(Political)</em>") Un ejemplo de esto es cuando el gobierno a final de 2020 (3 de diciembre), decretó algunas medidas de alivio tributario para el sector turístico. Algunas de estas fueron: a) La reducción del 19% al 5% en el IVA en los tiquetes aéreos; b) El no cobro de IVA a los hoteles durante 2021, c) La suspensión transitoria del pago de la sobretasa a la energía; y d) la eliminación al pago de la sanción para la reactivación del Registro Nacional de Turismo (RNT).
           p(numero="2" titulo="Factores económicos <em>(Economic)</em>") Recientemente (julio de 2021) Colombia perdió el grado de inversión y entre las consecuencias se podría presentar a) presión alcista al dólar, b) aumento en la deudas adquiridas en dólares, c) disminución de la inversión extranjera, d) aumento en las tasas de interés. Todos estos factores podrían afectar a empresas o emprendimientos del sector turismo.
-          p(numero="3" titulo="Factores sociales (Social):") Los cambios en la forma de viajar a causa de la pandemia, son un ejemplo de los factores que las empresas del sector deben analizar y tener en cuenta, ya que serán preponderantes en el futuro.<br> <br> Otro ejemplo podrían ser los índices de desempleo o la falta de personal calificado.
+          p(numero="3" titulo="Factores sociales (Social)") Los cambios en la forma de viajar a causa de la pandemia, son un ejemplo de los factores que las empresas del sector deben analizar y tener en cuenta, ya que serán preponderantes en el futuro.<br> <br> Otro ejemplo podrían ser los índices de desempleo o la falta de personal calificado.
           p(numero="4" titulo="Factores tecnológicos <em>(Technological)</em>") El aumento de la intermediación en la comercialización del sector se basan en tecnología, allí las empresas deben preguntarse si cuentan con todas las herramientas tecnológicas necesarias para tener una eficiente gestión frente a este nuevo escenario.
           p(numero="5" titulo="Factores medioambientales <em>(Enviromental)</em>") Dia a día el interés por la conservación del medioambiente se vuelve un tema predominante, esto afecta directamente al sector turístico, toda vez que los clientes exigirán cada vez más que la industria tenga políticas claras en este aspecto.
           p(numero="6" titulo="Factores legales (Legal)") Estos factores analizan la normatividad vigente que afecta al sector y los posibles cambios que lo puedan afectar o beneficiar.
@@ -63,6 +63,7 @@
     separador
     #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 2.3 Análisis del negocio - Modelo Canvas
+    p.mb-4 Hasta este momento se han comentado algunas herramientas de análisis estratégico. Además de estas herramientas existe un modelo que por su simplicidad, eficacia y practicidad ha ganado bastantes adeptos, este modelo de análisis contempla todos los factores que impactan el desempeño de una empresa de una forma ágil e intuitiva. Se trata de un método que aligera la tarea de análisis y elimina todo lo superfluo para centrarse en el modelo de negocio sin perder el enfoque estratégico. Ver figura.
     .titulo-sexto.color-acento-contenido
       h5 Figura 4. Modelo Canvas
     h4.text-center Modelo Canvas
@@ -75,7 +76,7 @@
         .bloque-texto-b.color-primario.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left
-            h4.mb-0 “Hoy en día nacen con frecuencia innovadores modelos de negocio e industrias totalmente nuevas que sustituyen a otras que se van desmoronando. Las empresas emergentes (startups) desafían a la vieja guardia, que se esfuerza febrilmente por reinventarse” (Osterwalder & Pigneur, 2011).
+            h4.mb-0 “Hoy en día nacen con frecuencia innovadores modelos de negocio e industrias totalmente nuevas que sustituyen a otras que se van desmoronando. Las empresas emergentes <em>(startups)</em> desafían a la vieja guardia, que se esfuerza febrilmente por reinventarse” (Osterwalder & Pigneur, 2011).
             i.fas.fa-quote-right
     .row.justify-content-center
       .col-xxl-12.px-5
@@ -88,39 +89,39 @@
               p “¿Cómo te imaginas el modelo de negocio de tu empresa dentro de dos, cinco o diez años? ¿Te encontrarás entre los principales jugadores? ¿Podrás hacer frente a los competidores que tengan entre sus manos fantásticos y nuevos modelos de negocio?”
             p La verdad es que muchos planes de empresa fracasan por invertir recursos (tiempo y dinero) construyendo el producto equivocado, y es ahí donde el Modelo Canvas se convierte en una herramienta estratégica empresarial y de gestión que permite describir, diseñar y testear nuevos modelos de negocio. Permite hacer un mapa completo del modelo de negocio en una sola imagen, partiendo de un lienzo predefinido en nueve casillas que representan los fundamentos en los que se asienta el negocio. 
     p.mb-5 Las nueve casillas que se indican anteriormente podrán ser consultadas en el siguiente recurso educativo:
-    .row.justify-content-center
+    .row.justify-content-center.mb-5
       .col-xxl-3.col-lg-3.col-md-5.col-9.fondo3.mb-0
         h4.text-white.text-center.pt-2.pb-3.mb-0 Modelo Canvas
-    SlyderF(data-aos="fade-up")(columnas="col-lg-4 col-xl-4")
-      .tarjeta.color-acento-contenido.color12.tranform1.h-100.hoverScale2
+    SlyderF(data-aos="fade-up")(columnas="col-lg-4 col-xl-4").mb-5
+      .tarjeta.color-acento-contenido.color12.tranform1.hoverScale2.alt
         .row.justify-content-center
           .col-12
             img(src='@/assets/curso/tema2/img08.png' style="width: 330px").m-auto
         .row.p-3
           h4.text-center.text-dark Alianzas clave
           p.p-2.text-dark Proveedores, distribuidores y/o clientes con capacidad de impulsar el desarrollo del negocio debido a su tamaño, capacidad de inversión o complementariedad con el producto o servicio comercializado.
-      .tarjeta.color-acento-contenido.color12.tranform1.h-100.hoverScale2.alt
+      .tarjeta.color-acento-contenido.color12.tranform1.hoverScale2.alt
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema2/img09.png')
         .row.p-3
           h4.text-center.text-dark Actividades clave
           p.p-2.text-dark Aquellos eslabones de la cadena de valor en los que la empresa debe lograr un desempeño excelente para ser competitiva y viable.
-      .tarjeta.color-acento-contenido.color12.tranform1.h-100.hoverScale2.alt
+      .tarjeta.color-acento-contenido.color12.tranform1.hoverScale2.alt
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema2/img10.png')
         .row.p-3
           h4.text-center.text-dark Recursos clave
           p.p-2.text-dark Infraestructura mínima necesaria para crear valor y generar beneficios.
-      .tarjeta.color-acento-contenido.color12.tranform1.h-100.hoverScale2.alt
+      .tarjeta.color-acento-contenido.color12.tranform1.hoverScale2.alt
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema2/img11.png')
         .row.p-3
           h4.text-center.text-dark Propuesta única de valor
           p.p-2.text-dark Cada segmento identificado requerirá una oferta de valor única y diferenciada para resultar atractiva al público al que se dirige.
-      .tarjeta.color-acento-contenido.color12.tranform1.h-100.hoverScale2.alt
+      .tarjeta.color-acento-contenido.color12.tranform1.hoverScale2.alt
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema2/img12.png')
@@ -134,24 +135,24 @@
         .row.p-3
           h4.text-center.text-dark Relaciones con los clientes
           p.p-2.text-dark Existen diferentes tipos de relaciones  que se pueden establecer con segmentos específicos de clientes. Estas relaciones se basan en la adquisición y retención de clientes y en el aumento de ventas, es decir, hay que conseguir, mantener y hacer crecer las relaciones con los clientes.
-      .tarjeta.color-acento-contenido.color12.tranform1.h-100.hoverScale2.alt
+      .tarjeta.color-acento-contenido.color12.tranform1.hoverScale2.alt
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema2/img16.png')
         .row.p-3
           h4.text-center.text-dark Segmento de mercado
           p.p-2.text-dark Conjunto de clientes/usuarios objetivo que comparten características comunes y homogéneas que hacen factible agruparlos en un único segmento (esto incluye usuarios simples y clientes que pagan).
-      .tarjeta.color-acento-contenido.color12.tranform1.h-100.hoverScale2.alt
+      .tarjeta.color-acento-contenido.color12.tranform1.hoverScale2.alt
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema2/img14.png')
         h4.text-center.text-dark Estructura de costes
         p.p-2.text-dark Tras analizar los puntos anteriores debe establecerse una estimación de los costes de desarrollar y mantener la infraestructura mínima para desarrollar el modelo de negocio.
-      .tarjeta.color-acento-contenido.color12.tranform1.h-100.hoverScale2.alt
+      .tarjeta.color-acento-contenido.color12.tranform1.hoverScale2.alt
         .row.justify-content-center.mb-3
           .col-12
             img(src='@/assets/curso/tema2/img15.png')
-        .row.p-3
+        .row.p-3.mb-5
           h4.text-center.text-dark Fuentes de ingresos
           p.p-2.text-dark Cómo se van a generar ingresos el modelo de negocio desarrollado en el Modelo Canvas.
     .row.justify-content-around.align-items-center(data-aos="fade-up-left")

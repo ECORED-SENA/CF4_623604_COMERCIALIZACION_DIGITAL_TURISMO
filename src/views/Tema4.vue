@@ -23,7 +23,7 @@
           SlyderA.otroslide2(tipo="b")
             .row
               .col-lg-12.col-md-12.mb-4.mb-md-0.px-4
-                p.mt-5 #[b Cuando no conocen la marca recurren principalmente a los buscadores (Google, Yahoo, Bing, MSN) y los diferentes distribuidores online  lo hacen a través de diferentes parámetros de búsqueda como pueden ser:]
+                p.mt-5 #[b Cuando no conocen la marca recurren principalmente a los buscadores (Google, Yahoo, Bing, MSN) y los diferentes distribuidores <em>online</em>  lo hacen a través de diferentes parámetros de búsqueda como pueden ser:]
               .col-lg-6.col-md-4.col-5.px-4
                 ul.lista-ul--color
                   li
@@ -43,21 +43,21 @@
                   img(src='@/assets/curso/tema4/img03.png')
             .row
               .col-lg-12.col-md-12.mb-4.mb-md-0.px-4
-                p.mt-5 #[b A nivel del mundo online (Internet) las principales vías por las que un viajero llega a un hotel son:]
+                p.mt-5 #[b A nivel del mundo <em>online</em> (Internet) las principales vías por las que un viajero llega a un hotel son:]
               .col-lg-6.col-md-4.col-5.px-4.align-items-center
                 ul.lista-ul--color
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    | Web  de la propiedad.
+                    | <em>Web</em>  de la propiedad.
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    | Agencias de viaje online (OTA’s).
+                    | Agencias de viaje <em>online</em> (OTA’s).
                   li
                     i.fas.fa-check(style="color: #ED7D41")
                     | Metabuscadores (Trivago, Kayak, Skyscanner,Tripadvisor).
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    | Distribuidores online. 
+                    | Distribuidores <em>online</em>. 
                   li
                     i.fas.fa-check(style="color: #ED7D41")
                     | Portales de viajes y portales de destino turístico.
@@ -109,7 +109,7 @@
       .py-3.py-md-4(titulo="Transparencia")
         .row.justify-content-around
           .col-md-6.mb-4.mb-md-0
-            p El cumulo de información accesible a unos cuantos clics y la multiplicación de medios, que permiten crearla y difundirla de forma simple, hacen que los modelos de negocio basados en experiencias de clientes pobres y decepcionantes tengan muy poco recorrido. En este sentido, es deber tener presente que las marcas ya no cuentan con el monopolio del mensaje, sino que los clientes reinterpretan, completan y amplifican, por lo que para lanzarse al nuevo mundo digital es necesario realizar una auditoría de la reputación de la marca para evitar incoherencias y falta de capacidad de respuesta.
+            p El cúmulo de información accesible a unos cuantos <em>clics</em> y la multiplicación de medios, que permiten crearla y difundirla de forma simple, hacen que los modelos de negocio basados en experiencias de clientes pobres y decepcionantes tengan muy poco recorrido. En este sentido, es deber tener presente que las marcas ya no cuentan con el monopolio del mensaje, sino que los clientes reinterpretan, completan y amplifican, por lo que para lanzarse al nuevo mundo digital es necesario realizar una auditoría de la reputación de la marca para evitar incoherencias y falta de capacidad de respuesta.
           .col-md-4
             figure
               img(src='@/assets/curso/tema4/img10.svg', alt='Texto que describa la imagen')
@@ -141,7 +141,7 @@
           .row.p-3
             h4.text-dark Medios ganados: 
             p.p-2.text-dark En este tercer caso pensamos en los resultados de acciones de Relaciones Públicas, como la publicación de una nota de prensa. La empresa no controla ni el medio ni el mensaje (El medio puede editarlo y presentarlo como considere oportuno.
-      p.mb-5 Estas tres grandes categorías se han visto ampliadas con la eclosión de las nuevas plataformas digitales y la Web social, dando lugar a dos nuevas como se puede ver en el siguiente recurso educativo:
+      p.mb-5 Estas tres grandes categorías se han visto ampliadas con la eclosión de las nuevas plataformas digitales y la <em>web</em> social, dando lugar a dos nuevas como se puede ver en el siguiente recurso educativo:
       .row
         .col-12.px-5
           TabsA.color-secundario.mb-5
@@ -149,7 +149,7 @@
               .row.align-items-center.p-2.p-lg-4
                 .col-lg-10.mb-4.mb-lg-0
                   h4 Medios promocionados
-                  p.mb-3 Derivados de la eclosión de las redes sociales y los perfiles corporativos desarrollados por las marcas en estas plataformas surge esta categoría, que está a mitad de camino entre los medios propios y los pagados, siendo el ejemplo más conocido las publicaciones patrocinadas en redes sociales (publica un contenido de forma nativa en una red social y hace una inversión publicitaria para darlo a conocer a un target afín, más allá de los seguidores de los perfiles corporativos).
+                  p.mb-3 Derivados de la eclosión de las redes sociales y los perfiles corporativos desarrollados por las marcas en estas plataformas surge esta categoría, que está a mitad de camino entre los medios propios y los pagados, siendo el ejemplo más conocido las publicaciones patrocinadas en redes sociales (publica un contenido de forma nativa en una red social y hace una inversión publicitaria para darlo a conocer a un <em>target</em> afín, más allá de los seguidores de los perfiles corporativos).
                 .col-lg-2
                   figure
                     img.mb-3(src='@/assets/curso/tema4/img14.svg', style="width: 120px").m-auto.mb-4
@@ -157,7 +157,7 @@
               .row.align-items-center.p-2.p-lg-4
                 .col-lg-10.mb-4.mb-lg-0
                   h4 Medios compartidos
-                  p.mb-3 Al igual que el anterior caso, los medios compartidos están directamente vinculados a la web social y se encuentran a mitad de camino entre los medios propios y los ganados, tratándose fundamentalmente de ejemplos de viralización en los que un contenido publicado por una marca en su perfil corporativo es a su vez compartido y difundido por sus seguidores, que lo dan a conocer entre su propia audiencia, avalando el mensaje de la marca.
+                  p.mb-3 Al igual que el anterior caso, los medios compartidos están directamente vinculados a la <em>web</em> social y se encuentran a mitad de camino entre los medios propios y los ganados, tratándose fundamentalmente de ejemplos de viralización en los que un contenido publicado por una marca en su perfil corporativo es a su vez compartido y difundido por sus seguidores, que lo dan a conocer entre su propia audiencia, avalando el mensaje de la marca.
                 .col-lg-2
                   figure
                     img.mb-3(src='@/assets/curso/tema4/img15.svg', style="width: 120px").m-auto.mb-4

@@ -119,7 +119,7 @@ export default {
       {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
-        numero: '1',
+        numero: '3',
         titulo: 'Competencia',
         desarrolloContenidos: true,
         subMenu: [
@@ -347,41 +347,41 @@ export default {
   creditos: {
     liderEquipo: [
       {
-        nombre: 'Maria Camila Garcia Santamaria',
+        nombre: 'María Camila García Santamaría',
         cargo: 'Líder del equipo',
-        centro: 'Dirección General',
+        centro: 'Dirección general',
       },
     ],
     contenidoInstruccional: [
       {
         nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Responsable Equipo de desarrollo curricular',
+        cargo: 'Responsable equipo de desarrollo curricular',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
         nombre: 'Harbey Castelblanco',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro Nacional Colombo Alemán',
       },
       {
         nombre: 'Fabio Alberto Ramírez Ayala',
-        cargo: 'Experto Temático',
+        cargo: 'Experto temático',
         centro: 'Centro Agropecuario la Granja - Regional Tolima',
       },
       {
-        nombre: 'Zuleidy María Ruiz Torres',
-        cargo: 'Experta Temática',
+        nombre: 'Zuleidy María Ruíz Torres',
+        cargo: 'Experta temática',
         centro: 'Centro Agropecuario la Granja - Regional Tolima',
       },
       {
         nombre: 'Luisa Fernanda Posada Hincapié',
-        cargo: 'Experta Temática',
+        cargo: 'Experta temática',
         centro: 'Centro de Comercio, Industria y Turismo - Regional Quindío',
       },
       {
         nombre: 'María Inés Machado López',
-        cargo: 'Diseñador Instruccional',
+        cargo: 'Diseñador instruccional',
         centro:
           'Centro de la industria, la empresa y los servicios - Regional Norte de Santander ',
       },
@@ -410,17 +410,42 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Fabian Zarate',
+        nombre: 'Yerson Fabian Zarate Saavedra',
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
+      {
+        nombre: 'Pedro Nel Calao Zabala',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Validación audiovisual',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'María Carolina Tamayo López',
+        cargo: 'Locución',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+      {
+        nombre: 'Estefani Daniela Gallo Cortés',
+        cargo: 'Ilustración',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+      },
+
       {
         nombre: 'Sandra Milena Triana Pinto',
         cargo: 'Desarrollo front-end',
@@ -428,7 +453,7 @@ export default {
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'María Eugenia Mejia López',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',
