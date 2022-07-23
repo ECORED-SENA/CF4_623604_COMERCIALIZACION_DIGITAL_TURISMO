@@ -300,7 +300,7 @@
           .col-lg-10
             p Tras haber revisado el plan de negocios de su emprendimiento o negocio, a la luz de las diferentes herramientas descritas en los puntos anteriores. Haber clarificado cuál es su propuesta de valor y los segmentos de clientes a los que se dirige, ha llegado el momento de comprender si el posicionamiento y diferenciación de su marca son coherentes y eficaces para alcanzar los objetivos estratégicos definidos.
     p.mb-4 A medida que la globalización expande los mercados con clientes hiperconectados y cada vez más informados, se hace más difícil posicionarse en la mente del cliente. Encontrar ese factor diferencial que hace que consuman el producto o servicio, debe ser una preocupación constante de los empresarios.
-    p.mb-5 Es por eso que se hace necesario mantener un estudio y análisis juicioso y permanente sobre el mercado (clientes y competencia), y lograr comunicar efectivamente esas características diferenciales es preponderante para cualquier actividad empresarial, tanto en el posicionamiento de la marca como en el #[em branding], como se aprecia en la siguiente tabla.
+    p.mb-2 Es por eso que se hace necesario mantener un estudio y análisis juicioso y permanente sobre el mercado (clientes y competencia), y lograr comunicar efectivamente esas características diferenciales es preponderante para cualquier actividad empresarial, tanto en el posicionamiento de la marca como en el #[em branding], como se aprecia en la siguiente tabla.
     .row.mb-5
       .titulo-sexto.color-acento-contenido.mt-5
         h5 Tabla 1
@@ -310,10 +310,10 @@
           thead
             tr(style="background-color: #3D672F")
               th 
-              th 
+              th
           tbody
             tr(style="background-color: #F6F6F6")
-              td.py-3 Cuando se habla de posicionamiento de marca y se hace referencia a los valores y atributos a los que la marca está asociada en la mente del consumidor. Algunos ejemplos que se podrían mencionar son:
+              td.pt-5 Cuando se habla de posicionamiento de marca y se hace referencia a los valores y atributos a los que la marca está asociada en la mente del consumidor. Algunos ejemplos que se podrían mencionar son:
                 ul.lista-ul.ms-3
                   li 
                     i.fa.fa-dot-circle(style="color: #FF854E")
@@ -324,7 +324,7 @@
                   li 
                     i.fa.fa-dot-circle(style="color: #FF854E")
                     p.mb-0 Samsung - calidad.
-              td.py-3 Y del #[em branding], que es el término acuñado por la industria para referirse al universo alrededor de la marca y que se constituye por materiales publicitarios, eventos, relaciones con los medios, experiencia de cliente, usabilidad del producto, servicio postventa, recomendaciones voz  a voz y acciones de comunicación coherentes con los valores del segmento de clientes al que se dirige.
+              td.mb-0 Y del #[em branding], que es el término acuñado por la industria para referirse al universo alrededor de la marca y que se constituye por materiales publicitarios, eventos, relaciones con los medios, experiencia de cliente, usabilidad del producto, servicio postventa, recomendaciones voz  a voz y acciones de comunicación coherentes con los valores del segmento de clientes al que se dirige.
     .row.fondo6.p-3.justify-content-center.align-items-center.mb-5
       .col-lg-8(data-aos="fade-up-left")
         p.mb-3 #[b Plantearse las siguientes preguntas le ayudará a tener un panorama más claro:]
@@ -348,7 +348,7 @@
         .cajon.color-secundario.p-4.mb-4.mt-4.fondo1
           p El <em>branding</em> es un proceso mientras que el posicionamiento es un resultado. Todos los productos tienen una marca o logo hoy en día; pero solamente unos pocos han logrado posicionarse en la mente de los consumidores. No es sencillo pero el posicionamiento es lo que permitirá que los consumidores estén dispuestos a pagar más por su marca o a elegirla frente a la competencia.
         p.mb-5 Luego de haber estudiado a fondo las líneas estratégicas, tener los objetivos establecidos y un panorama estratégico, el plan de mercadeo digital se adentra en el mercadeo operativo, es decir, en convertir las estrategias en acciones concretas.
-    p.mb-5 La siguiente figura aclara un poco más cómo ha sido la evolución de herramientas en el marketing, para continuar con una explicación más detallada posteriormente:
+    p.mb-5 La siguiente figura aclara un poco más cómo ha sido la evolución de herramientas en el #[em marketing], para continuar con una explicación más detallada posteriormente:
     .titulo-sexto.color-acento-contenido.my-5(data-aos="fade-up-right")
       span.text-bold.mb-0 Figura 1. 
       span #[em Evolución de herramientas en el marketing]
@@ -561,12 +561,12 @@
       .col-lg-6.col-md-8.col-sm-10.col-12.col-lg.mb-5.mb-lg-0(data-aos="fade-up-left")
         .tarjeta-avatar.p-5
           img.sizeimg(src='@/assets/curso/tema1/img58.svg')
-          .tarjeta.fondo8.p-4 
+          .tarjeta.fondo8.p-5 
             p.p-5 Todas aquellas específicas de su actividad y fundamentales para desarrollar su producto/servicio.
       .col-lg-6.col-md-8.col-sm-10.col-12.col-lg.mb-5.mb-lg-0(data-aos="fade-up-right")
         .tarjeta-avatar.p-4
           img.sizeimg(src='@/assets/curso/tema1/img59.svg')
-          .tarjeta.fondo9.p-4 
+          .tarjeta.fondo9.p-5 
             p.p-5 Aquellas que soportan las primeras y necesariamente se desarrollan en cualquier empresa, independientemente de su sector de actividad como recursos humanos o contabilidad.
     p.mb-5 Porter describe las actividades primarias como las directamente vinculadas a la producción y distribución de productos/servicios que generan valor para el cliente, fundamentalmente logística de entrada, operaciones, logística de salida, ventas, #[em marketing] y servicio. En este modelo analítico se hace uso del #[em benchmarking], comparando los procesos de su negocio con los de los competidores y así identificar fuentes de ventaja competitiva.
     .bloque-texto-g.bg7.p-3.p-sm-4.p-md-5(data-aos="fade-up-left")

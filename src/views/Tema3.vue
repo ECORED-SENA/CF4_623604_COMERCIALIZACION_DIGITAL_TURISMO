@@ -309,7 +309,7 @@
                 .col-lg-3
                   .mt-3
                     a.boton.me-3.indicador__container(
-                      :href="('https://www.youtube.com/embed/7B8bGB0CZVI')"
+                      :href="('https://www.youtube.com/watch?v=NfUUQ5dir6c')"
                       target="_blank"
                       type="application/pdf"
                       @mouseover="mostrarIndicador = false"
