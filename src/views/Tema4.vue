@@ -69,7 +69,7 @@
     p La siguiente figura clarifica aún más este proceso “decisorio” de clientes, de acuerdo con el interés que manifiesten en su escogencia. 
     .titulo-sexto.color-acento-contenido
       h5 Figura 6. Ecosistema de distribución hotelera
-    .row.justify-content-center.ampliarambos.fondo10
+    .row.justify-content-center.ampliarambos.fondo10.px-5
       .col-sm-6.col-xl-10.mb-0.mb-xl-10
         figure
           img(src='@/assets/curso/tema4/img05.svg')

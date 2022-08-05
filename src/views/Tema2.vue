@@ -20,7 +20,7 @@
     separador
     #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 2.1 Método PESTEL
-    .row.justify-content-center.ampliarambos.fondo10.mb-5
+    .row.justify-content-center.ampliarambos.fondo10.mb-5.px-5
       .col-sm-6.col-xl-8.mb-0.mb-xl-8.d-flex.align-items-center
         img(src='@/assets/curso/tema2/img02.svg')
       .col-sm-6.col-xl-12.mb-4.mb-xl-12.bg6

@@ -31,7 +31,7 @@
       .col-lg-4.col-md-5.mb-4
         .bg2.p-3.mb-3
           p Siempre se debe tener presente que los objetivos son referencias parciales que se deben alcanzar para lograr una meta mayor que está asociada al crecimiento sostenible del negocio.
-        p Por lo tanto, una de las secciones más relevantes que atañe a toda organización es la correcta definición de objetivos, ya que respecto a lo que  se quiere lograr es cómo se puede analizar la situación, proyectarla y tomar acción; pero recuerde que el establecimiento es solo el inicio, lo verdaderamente importante de los objetivos es cumplirlos.  
+          p Por lo tanto, una de las secciones más relevantes que atañe a toda organización es la correcta definición de objetivos, ya que respecto a lo que  se quiere lograr es cómo se puede analizar la situación, proyectarla y tomar acción; pero recuerde que el establecimiento es solo el inicio, lo verdaderamente importante de los objetivos es cumplirlos.  
       .col-lg-4.col-md-5.mb-4.d-flex.align-items-center
         img(src="@/assets/curso/tema1/img03.png")
       .col-lg-4.col-md-5.mb-4
@@ -66,7 +66,7 @@
     separador
     #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 1.2 Establecer objetivos SMART (paso a paso)
-    .row.fondo2.justify-content-center.mb-5.ampliarambos
+    .row.fondo2.justify-content-center.mb-5.ampliarambos.px-5
       .col-lg-11
         p.mb-4 Para lograr el cometido de establecer objetivos claros, pero sobre todo realistas y cumplibles, se apoyará en la técnica SMART (Jiménez, 2021), que proviene de un acrónimo en inglés que significa: 
         img(src='@/assets/curso/tema1/img06.svg')
@@ -77,7 +77,7 @@
       .col-xxl-3.col-lg-4.col-md-5.col-9.fondo3.mb-4
         h4.text-white.text-center.pt-2.pb-3.mb-0 Objetivos SMART (paso a paso)
     .row.justify-content-center.align-items-center
-      .col-xxl-6.col-lg-6.col-md-10.col-sm-11.col-11.mb-5.mb-md-0(data-aos="fade-up-left")
+      .col-lg-6.col-md-10.col-sm-11.col-11.mb-5.mb-md-2(data-aos="fade-up-left")
         LineaTiempoD
           p(numero="S" titulo="El objetivo debe ser específico ¿Qué?") Cuanto más asertivos sean, más exactos serán sus objetivos. A manera de ejemplo: si deciden “queremos incrementar sus reservas” suena a objetivo, pero no es lo suficientemente claro para lograr aplicarlo. <br> <br> En este caso ejemplo el objetivo podría ser:“Queremos aumentar nuestra presencia en nuevos canales digitales, dedicados al comercio de hoteles”.«Aumentar las reservas» es difuso y no permitirá centrarse en la estrategia puntual que debe desarrollar para conseguirlo. Estará señalando muchos puntos y probablemente no logre darle a ninguno.
           p(numero="M" titulo="El objetivo debe ser medible ¿Cuánto?") “Lo que no se puede medir no se puede controlar; lo que no se puede controlar no se puede gestionar; lo que no se puede gestionar no se puede mejorar” (Drucker, s.f.). <br> <br> Con esto en mente queda claro que todos los objetivos de la empresa, entre ellos los de mercadeo, se deben poder medir.<br> <br> La redacción de un objetivo medible podría ser: <br> <br> 
@@ -228,7 +228,7 @@
       .col-xxl-5.col-lg-5.col-md-5.col-9.fondo3.mb-4
        h4.text-white.text-center.pt-2.pb-3.mb-0 Diferencias clave entre productos y servicios
     .row.ampliarambos
-      .col-xxl-12.px-0(data-aos="fade-up-left")
+      .col-xxl-12.px-4(data-aos="fade-up-left")
         ImagenInfograficaB.color-secundario.mb-0
           template(v-slot:imagen)
             figure
@@ -294,8 +294,8 @@
                 img(src='@/assets/curso/tema1/img27.svg')
     .row.justify-content-center.align-items-center.ampliarambos
       .col-lg-12.bg1
-        .row.p-3
-          .col-3.col-sm-2.col-lg-2.d-flex.justify-content-center
+        .row.p-5
+          .col-3.col-sm-2.col-lg-2.d-flex.justify-content-center.align-items-center
             img(src="@/assets/curso/tema1/img31.svg", style="width: 90px")
           .col-lg-10
             p Tras haber revisado el plan de negocios de su emprendimiento o negocio, a la luz de las diferentes herramientas descritas en los puntos anteriores. Haber clarificado cuál es su propuesta de valor y los segmentos de clientes a los que se dirige, ha llegado el momento de comprender si el posicionamiento y diferenciación de su marca son coherentes y eficaces para alcanzar los objetivos estratégicos definidos.
