@@ -70,14 +70,14 @@
               li 
                 i.fa.fa-dot-circle(style="color: #FF854E")
                 | Producto o servicio difiere en alguno de sus atributos principales.
-            p Para seguir con el mismo ejemplo Coca-cola, en este caso su competencia indirecta podrían ser otros hoteles, como GHL, Estelar.
+            p Para seguir con el mismo ejemplo Coca-Cola, en este caso su competencia indirecta podrían ser otros hoteles, como GHL, Estelar.
           .col-md-4
             figure
               img(src='@/assets/curso/tema3/img04.svg', alt='Texto que describa la imagen')
       .py-3.py-md-4(titulo="Productos sustitutos o competidores de tercer grado")
         .row.justify-content-around
           .col-md-8.mb-4.mb-md-0
-            p SSon empresas que:
+            p Son empresas que:
             ul.lista-ul--color
               li 
                 i.fa.fa-dot-circle(style="color: #FF854E")
@@ -195,8 +195,8 @@
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/anexo1.xlsx')" target="_blank")
                     span Descargar
-                    i.fas.fa-link
-    p Para una mejor comprensión del tema en el anexo Análisis de competencia encontrará los resultados que se han consignado en un matriz comparativa.
+                    i.fas.fa-file-download
+    
     separador
     #t_3_4.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 3.4 Competencia imperfecta
@@ -239,10 +239,10 @@
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right")
             img.mt-4(src='@/assets/curso/tema3/img13.png')
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-left")
-            p El <em>benchmarking</em> o "evaluación comparativa" ocurre alrededor del mundo, en múltiples industrias y en la vida diaria. Seguramente cuando va a hacer una compra, antes de comprar, primero investiga un poco y compara los productos en cuanto a características, precio y calidad, esto en esencia es <em>benchmarking</em>. Esta disciplina es muy relevante en la industria turística, donde constituye la base de trabajo para la analítica de desempeño, el <em>business intelligence</em>business intelligence y el <em>revenue management.</em>
+            p El <em>benchmarking</em> o "evaluación comparativa" ocurre alrededor del mundo, en múltiples industrias y en la vida diaria. Seguramente cuando va a hacer una compra, antes de comprar, primero investiga un poco y compara los productos en cuanto a características, precio y calidad, esto en esencia es <em>benchmarking</em>. Esta disciplina es muy relevante en la industria turística, donde constituye la base de trabajo para la analítica de desempeño, el <em>business intelligence</em> y el <em>revenue management.</em>
             .cajon.color-secundario.p-4.mb-4.mt-4.fondo1
               p El <em>benchmarking</em> se puede definir como el proceso ordenado y sistemático de recopilar, crear, comparar y analizar indicadores clave de desempeño de su empresa en relación con la competencia. El proceso de <em>benchmarking</em> en la industria hotelera se basa en datos históricos y crea tendencias que ayudan a entender el mercado y el contexto en el que se opera.
-            p Como se mencionó el <em>benchmarking</em> está presente en muchas industrias, pero se tomará la industria hotelera como marco de referencia para describir y entender sus características. Es oportuno mencionar que el referente mundial en <em>benchmarking</em> hotelero es la compañía STR (acrónimo de Smith Travel Research) que posee la base de datos históricos más completa del sector hotelero y como explican en su página <em>web</em> #[a(href="https://str.com/" target='_blank') https://str.com] proporcionan datos confidenciales, precisos y aplicables, por medio de reportes integrales que permiten a los clientes elaborar estrategias y competir dentro de sus mercados.
+            p Como se mencionó el <em>benchmarking</em> está presente en muchas industrias, pero se tomará la industria hotelera como marco de referencia para describir y entender sus características. Es oportuno mencionar que el referente mundial en <em>benchmarking</em> hotelero es la compañía STR (acrónimo de Smith Travel Research) que posee la base de datos históricos más completa del sector hotelero y como explican en su página <em>web</em> #[a(href="https://str.com/"  target='_blank') https://str.com] proporcionan datos confidenciales, precisos y aplicables, por medio de reportes integrales que permiten a los clientes elaborar estrategias y competir dentro de sus mercados.
     p.mb-4 Para contextualizar y resumir el <em>benchmarking</em> la siguiente figura ofrece una descripción de sus principales características.
     .row.ampliarambos.fondo12.mb-5
       .col-xxl-12
@@ -340,12 +340,12 @@
       .col-xxl-6.col-xl-6.col-lg-5.col-md-11.col-sm-11.col-11.px-5(data-aos="fade-up-left")
         img(src='@/assets/curso/tema3/img20.png')
       p.mb-0 A continuación podrá encontrar cuáles son los 5 pasos para implementar una estrategia de segmentación de mercados, los cuales permiten acertar de manera precisa en la venta de productos en el mercado que sea de interés, según el producto que desea ofrecer:
-    .row.justify-content-center.align-items-center
+    .row.justify-content-center.align-items-center.mb-5
       .col-xxl-6.col-lg-6.col-md-10.col-sm-11.col-11.mb-5.mb-md-0(data-aos="fade-up-left")
         img.mt-4(src='@/assets/curso/tema3/img21.png')
       .col-xxl-6.col-lg-6.col-md-10.col-sm-11.col-11.mb-5.mb-md-0(data-aos="fade-up-left")
         LineaTiempoD
-          p(numero="1" titulo="Defina su mercado (Political)") En este punto de la segmentación de mercados debe enfocarse en descubrir qué tan grande es el mercado, dónde encaja su marca y si sus productos tienen la capacidad de solucionar lo que promete.
+          p(numero="1" titulo="Defina su mercado") En este punto de la segmentación de mercados debe enfocarse en descubrir qué tan grande es el mercado, dónde encaja su marca y si sus productos tienen la capacidad de solucionar lo que promete.
           p(numero="2" titulo="Segmente  su mercado") Este paso consiste en elegir cuál de los tipos de segmentación de mercado es el que más se adecua a su marca.
           p(numero="3" titulo="Comprenda su mercado") Realice a sus clientes las preguntas adecuadas, dependiendo del tipo de segmentación de mercados que eligió. Debe conocer a su público objetivo detalladamente. Puede utilizar encuestas <em>online</em> para obtener sus respuestas.
           p(numero="4" titulo="Construya su segmento de clientes") Después de recolectar las respuestas, es necesario realizar un análisis de datos para crear segmentos dinámicos únicos para su marca.

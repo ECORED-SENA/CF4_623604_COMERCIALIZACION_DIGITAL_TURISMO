@@ -48,16 +48,16 @@
                 ul.lista-ul--color
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    | <em>Web</em>  de la propiedad.
+                    p <em>Web</em>  de la propiedad.
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    | Agencias de viaje <em>online</em> (OTA’s).
+                    p Agencias de viaje <em>online</em> (OTA’s).
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    | Metabuscadores (Trivago, Kayak, Skyscanner,Tripadvisor).
+                    p Metabuscadores #[i (Trivago, Kayak, Skyscanner, Tripadvisor)].
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    | Distribuidores <em>online</em>. 
+                    p  Distribuidores #[i online]. 
                   li
                     i.fas.fa-check(style="color: #ED7D41")
                     | Portales de viajes y portales de destino turístico.
@@ -140,7 +140,7 @@
               img(src='@/assets/curso/tema4/img13.png')
           .row.p-3
             h4.text-dark Medios ganados: 
-            p.p-2.text-dark En este tercer caso pensamos en los resultados de acciones de Relaciones Públicas, como la publicación de una nota de prensa. La empresa no controla ni el medio ni el mensaje (El medio puede editarlo y presentarlo como considere oportuno.
+            p.p-2.text-dark En este tercer caso pensamos en los resultados de acciones de Relaciones Públicas, como la publicación de una nota de prensa. La empresa no controla ni el medio ni el mensaje (El medio puede editarlo y presentarlo como considere oportuno).
       p.mb-5 Estas tres grandes categorías se han visto ampliadas con la eclosión de las nuevas plataformas digitales y la <em>web</em> social, dando lugar a dos nuevas como se puede ver en el siguiente recurso educativo:
       .row
         .col-12.px-5

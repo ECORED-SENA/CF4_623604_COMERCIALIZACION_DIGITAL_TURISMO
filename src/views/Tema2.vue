@@ -2,23 +2,23 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
-    .titulo-principal.color-acento-contenido
+    .titulo-principal.color-acento-contenido(data-aos="fade-right")
       .titulo-principal__numero
-        span(style="color: #161730")  2
+       span(style="color: #161730")  2
       h1 Análisis situacional del macroentorno
-    .row.justify-content-center
+    .row.justify-content-center(data-aos="fade-right")
       .col-xxl-12.px-5
         .row.justify-content-center
-          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right")
+          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11
             img.mt-4(src='@/assets/curso/tema2/img01.png')
-          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-left")
+          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-left")
             p Cuando se habla de macroentorno de la empresa se hace referencia a todos los aspectos que están alrededor y que pueden afectar, a pesar de no encontrarse exclusivamente en su sector. Se contrapone con el microentorno, principalmente porque este último tiene un enfoque más concreto.
             p Una de las áreas ligada al macroentorno y que afecta de manera directa a la empresa tiene que ver con la economía, es decir, si la economía en general se resiente, la empresa se afectará generando con esto dificultades en sus utilidades. Además, no se debe olvidar que la economía es un factor cíclico, es decir, hay tiempos en que el PIB registra un buen nivel, como otros en que no.
             .cajon.color-secundario.p-4.mb-4.mt-4.fondo1
               p Entonces el análisis del macroentorno se refiere al estudio de las variables que influyen en la actividad empresarial.  Variables que por lo general se relacionan no solo con la empresa, sino también a nivel social y las actividades que dependen de esta e incluyen aspectos relacionados con la población, las políticas públicas o las normativas tecnológicas. Un buen análisis del macroentorno permite realizar que la empresa se prepare y proteja para épocas menos fructíferas a nivel de ingresos.
     p.mb-5 Uno de los métodos utilizado como herramienta para el análisis del macroentorno es el denominado PESTEL, el cual se explica a continuación.
     separador
-    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
+    #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.1 Método PESTEL
     .row.justify-content-center.ampliarambos.fondo10.mb-5.px-5
       .col-sm-6.col-xl-8.mb-0.mb-xl-8.d-flex.align-items-center
@@ -31,37 +31,37 @@
     .row.justify-content-center.align-items-center
       .col-xxl-6.col-lg-6.col-md-10.col-sm-11.col-11.mb-5.mb-md-0(data-aos="fade-up-left")
         LineaTiempoD
-          p(numero="1" titulo="Factores políticos <em>(Political)</em>") Un ejemplo de esto es cuando el gobierno a final de 2020 (3 de diciembre), decretó algunas medidas de alivio tributario para el sector turístico. Algunas de estas fueron: a) La reducción del 19% al 5% en el IVA en los tiquetes aéreos; b) El no cobro de IVA a los hoteles durante 2021, c) La suspensión transitoria del pago de la sobretasa a la energía; y d) la eliminación al pago de la sanción para la reactivación del Registro Nacional de Turismo (RNT).
-          p(numero="2" titulo="Factores económicos <em>(Economic)</em>") Recientemente (julio de 2021) Colombia perdió el grado de inversión y entre las consecuencias se podría presentar a) presión alcista al dólar, b) aumento en la deudas adquiridas en dólares, c) disminución de la inversión extranjera, d) aumento en las tasas de interés. Todos estos factores podrían afectar a empresas o emprendimientos del sector turismo.
-          p(numero="3" titulo="Factores sociales (Social)") Los cambios en la forma de viajar a causa de la pandemia, son un ejemplo de los factores que las empresas del sector deben analizar y tener en cuenta, ya que serán preponderantes en el futuro.<br> <br> Otro ejemplo podrían ser los índices de desempleo o la falta de personal calificado.
-          p(numero="4" titulo="Factores tecnológicos <em>(Technological)</em>") El aumento de la intermediación en la comercialización del sector se basan en tecnología, allí las empresas deben preguntarse si cuentan con todas las herramientas tecnológicas necesarias para tener una eficiente gestión frente a este nuevo escenario.
-          p(numero="5" titulo="Factores medioambientales <em>(Enviromental)</em>") Dia a día el interés por la conservación del medioambiente se vuelve un tema predominante, esto afecta directamente al sector turístico, toda vez que los clientes exigirán cada vez más que la industria tenga políticas claras en este aspecto.
-          p(numero="6" titulo="Factores legales (Legal)") Estos factores analizan la normatividad vigente que afecta al sector y los posibles cambios que lo puedan afectar o beneficiar.
+          p(numero="P" titulo="Factores políticos <em>(Political)</em>") Un ejemplo de esto es cuando el gobierno a final de 2020 (3 de diciembre), decretó algunas medidas de alivio tributario para el sector turístico. Algunas de estas fueron: a) La reducción del 19% al 5% en el IVA en los tiquetes aéreos; b) El no cobro de IVA a los hoteles durante 2021, c) La suspensión transitoria del pago de la sobretasa a la energía; y d) la eliminación al pago de la sanción para la reactivación del Registro Nacional de Turismo (RNT).
+          p(numero="E" titulo="Factores económicos <em>(Economic)</em>") Recientemente (julio de 2021) Colombia perdió el grado de inversión y entre las consecuencias se podría presentar a) presión alcista al dólar, b) aumento en la deudas adquiridas en dólares, c) disminución de la inversión extranjera, d) aumento en las tasas de interés. Todos estos factores podrían afectar a empresas o emprendimientos del sector turismo.
+          p(numero="S" titulo="Factores sociales (Social)") Los cambios en la forma de viajar a causa de la pandemia, son un ejemplo de los factores que las empresas del sector deben analizar y tener en cuenta, ya que serán preponderantes en el futuro.<br> <br> Otro ejemplo podrían ser los índices de desempleo o la falta de personal calificado.
+          p(numero="T" titulo="Factores tecnológicos <em>(Technological)</em>") El aumento de la intermediación en la comercialización del sector se basan en tecnología, allí las empresas deben preguntarse si cuentan con todas las herramientas tecnológicas necesarias para tener una eficiente gestión frente a este nuevo escenario.
+          p(numero="E" titulo="Factores medioambientales <em>(Enviromental)</em>") Día a día el interés por la conservación del medioambiente se vuelve un tema predominante, esto afecta directamente al sector turístico, toda vez que los clientes exigirán cada vez más que la industria tenga políticas claras en este aspecto.
+          p(numero="L" titulo="Factores legales (Legal)") Estos factores analizan la normatividad vigente que afecta al sector y los posibles cambios que lo puedan afectar o beneficiar.
       .col-xxl-6.col-lg-6.col-md-11.col-sm-11.col-11(data-aos="fade-up-right")
         img.mt-4(src='@/assets/curso/tema2/img04.png')
       .col-sm-6.col-xl-12.mb-4.mb-xl-12.bg6
         p.py-3 Es importante resaltar que este tipo de estudios deben hacerse en escenarios de corto, mediano y largo plazo, y además ser revisado con periodicidad, ya que las situaciones subyacentes a estos factores están en constante cambio.
     separador
-    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
+    #t_2_2.titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 2.2 Análisis estratégico DOFA
-    .row.justify-content-center
+    .row.justify-content-center.align-item-center
       .col-xxl-12.px-5
         .row.justify-content-center.mb-5
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-left")
             p Tras realizar los análisis externo e interno ya se está en condiciones de desarrollar el análisis DOFA. Esta es una matriz que permite relacionar las amenazas y oportunidades (análisis externo) con las fortalezas y debilidades (análisis interno). 
             .col-xxl-6.col-xl-12.col-lg-6.col-md-8.col-sm-11.col-12.bg4(data-aos="fade-up-left").p-3
-              p Las oportunidades y amenazas tienen su origen en situaciones que no dependen de la organización, por ejemplo, factores competitivos y económicos; sin embargo, los encargados de la organización deben tener la capacidad de enfrentar estas condiciones sin que haya problemas internos. De otro lado, las fortalezas y debilidades son variables controladas por la organización, aspectos como el servicio al cliente, las características del producto y la planeación son un ejemplo de ello. Ver figura.
+              p Las oportunidades y amenazas tienen su origen en situaciones que no dependen de la organización, por ejemplo, factores competitivos y económicos; sin embargo, los encargados de la organización deben tener la capacidad de enfrentar estas condiciones sin que haya problemas internos. De otro lado, las fortalezas y debilidades son variables controladas por la organización, aspectos como el servicio al cliente, las características del producto y la planeación son un ejemplo de ello. Ver figura 3.
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right")
             img.mt-4(src='@/assets/curso/tema2/img05.png')
     .titulo-sexto.color-acento-contenido
       h5 Figura 3. Matriz DOFA
     .row.justify-content-center(data-aos="fade-up-right")
       .col-lg-10.col-md-10.col-sm-10.col-11
-        img.mb-5(src='@/assets/curso/tema2/img06.svg')
+        img.mb-5(src='@/assets/curso/tema2/img6.svg')
       .col-sm-6.col-xl-12.mb-4.mb-xl-12.bg6
         p.py-3 Ahora que ya se tienen identificados los mencionados ítems, el siguiente paso es vincular en la matriz cada amenaza y oportunidad identificada en el macroentorno con las debilidades y fortalezas propias, para desarrollar líneas de actuación estratégicas específicas para guiar las actividades. 
     separador
-    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
+    #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 2.3 Análisis del negocio - Modelo Canvas
     p.mb-4 Hasta este momento se han comentado algunas herramientas de análisis estratégico. Además de estas herramientas existe un modelo que por su simplicidad, eficacia y practicidad ha ganado bastantes adeptos, este modelo de análisis contempla todos los factores que impactan el desempeño de una empresa de una forma ágil e intuitiva. Se trata de un método que aligera la tarea de análisis y elimina todo lo superfluo para centrarse en el modelo de negocio sin perder el enfoque estratégico. Ver figura.
     .titulo-sexto.color-acento-contenido

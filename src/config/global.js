@@ -213,7 +213,8 @@ export default {
   complementario: [
     {
       tema: 'Modelo Canvas',
-      referencia: 'Modelo Canvas',
+      referencia:
+        'Catalá, J. (s.f.). Modelo Canvas explicado paso a paso con ejemplo',
       tipo: 'Video YouTube',
       link: 'https://www.youtube.com/watch?v=7B8bGB0CZVI',
     },
@@ -305,7 +306,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Cooper, A. (2004). The inmates are running the Asylum. Indianapolis Sams Publishing.Jiménez, L. (2021). Cómo definir objetivos de marketing y cumplirlos.',
+        'Cooper, A. (2004). The inmates are running the Asylum. Indianapolis Sams Publishing  Jiménez,  L. (2021). Cómo definir objetivos de marketing y cumplirlos.',
       link: 'https://www.luciajimenezvida.es/definir-objetivos-de-marketing/',
     },
     {
@@ -319,7 +320,8 @@ export default {
         'Osterwalder, A. & Pigneur, Y. (2011). Generación de modelos de Negocio. Deusto.',
     },
     {
-      referencia: 'Peñalver, P. (2020). We are marketing. ',
+      referencia:
+        'Peñalver, P. (2020). Cómo crear mi buyer persona y qué herramientas necesito para hacerlo.',
       link:
         'https://www.wearemarketing.com/es/blog/como-crear-mi-buyer-persona-y-que-herramientas-necesito-para-hacerlo.html',
     },
@@ -329,7 +331,7 @@ export default {
     },
     {
       referencia:
-        'PostgradoUTP. (2021). Estrategias competitivas: ¿cómo funcionan y cómo se adaptan a los tiempos de cambio? Universidad tecnológica del Perú. ',
+        'PostgradoUTP. (2021). Estrategias competitivas: ¿Cómo funcionan? Universidad tecnológica del Perú. ',
       link:
         'https://www.postgradoutp.edu.pe/blog/a/estrategias-competitivas-como-funcionan-y-como-se-adaptan-a-los-tiempos-de-cambio/#:~:text=Las%20estrategias%20competitivas%20son%20las,terreno%20frente%20a%20la%20competencia',
     },
@@ -340,7 +342,7 @@ export default {
     },
     {
       referencia:
-        'RD Station. (2021). Buyer persona: qué es y por qué es importante.',
+        'RD Station. (2021). Qué es un buyer persona: pasos, ejemplos y generador online.',
       link: 'https://www.rdstation.com/es/blog/buyer-persona/',
     },
   ],

@@ -42,8 +42,7 @@
       .col-sm-6.col-xl-3.mb-4.mb-xl-3.d-flex.align-items-center
         img(src='@/assets/curso/tema1/img04.png')
       .col-sm-6.col-xl-8.mb-4.mb-xl-8
-        p-mb-3 Esta cadena de medios y fines es uno de los métodos utilizados para definir objetivos, a la vez que permite descomponer un objetivo mayor en varios pequeños, es decir, en pasos más cortos, que al unirlos entre sí  facilitan alcanzar el gran objetivo propuesto inicialmente; sin embargo, también hay métodos relacionados con la resolución de problemas, que puede ser apreciados cuando se mira la cadena, el segmento o superficie que es  de interés, analizando de forma particular y comprobando los resultados que haya generado cada uno de sus componentes.
-        p-mb-0 Esto quiere decir que cada objetivo que se plantee debe cumplir todas las características mencionadas. 
+        p-mb-3 Esta cadena de medios y fines es uno de los métodos utilizados para definir objetivos, a la vez que permite descomponer un objetivo mayor en varios pequeños, es decir, en pasos más cortos, que al unirlos entre sí  facilitan alcanzar el gran objetivo propuesto inicialmente; sin embargo, también hay métodos relacionados con la resolución de problemas, que puede ser apreciados cuando se mira la cadena, el segmento o superficie que es  de interés, analizando de forma particular y comprobando los resultados que haya generado cada uno de sus componentes. Esto quiere decir que cada objetivo que se plantee debe cumplir todas las características mencionadas. 
           ul.lista-ul.mt-5
             li 
               i.fas.fa-check(style="color: #ED7D41")
@@ -79,7 +78,7 @@
     .row.justify-content-center.align-items-center
       .col-lg-6.col-md-10.col-sm-11.col-11.mb-5.mb-md-2(data-aos="fade-up-left")
         LineaTiempoD
-          p(numero="S" titulo="El objetivo debe ser específico ¿Qué?") Cuanto más asertivos sean, más exactos serán sus objetivos. A manera de ejemplo: si deciden “queremos incrementar sus reservas” suena a objetivo, pero no es lo suficientemente claro para lograr aplicarlo. <br> <br> En este caso ejemplo el objetivo podría ser:“Queremos aumentar nuestra presencia en nuevos canales digitales, dedicados al comercio de hoteles”.«Aumentar las reservas» es difuso y no permitirá centrarse en la estrategia puntual que debe desarrollar para conseguirlo. Estará señalando muchos puntos y probablemente no logre darle a ninguno.
+          p(numero="S" titulo="El objetivo debe ser específico ¿Qué?") Cuanto más asertivos sean, más exactos serán sus objetivos. A manera de ejemplo: si deciden “queremos incrementar sus reservas” suena a objetivo, pero no es lo suficientemente claro para lograr aplicarlo. <br> <br> En este caso ejemplo el objetivo podría ser: “Queremos aumentar nuestra presencia en nuevos canales digitales, dedicados al comercio de hoteles”. «Aumentar las reservas» es difuso y no permitirá centrarse en la estrategia puntual que debe desarrollar para conseguirlo. Estará señalando muchos puntos y probablemente no logre darle a ninguno.
           p(numero="M" titulo="El objetivo debe ser medible ¿Cuánto?") “Lo que no se puede medir no se puede controlar; lo que no se puede controlar no se puede gestionar; lo que no se puede gestionar no se puede mejorar” (Drucker, s.f.). <br> <br> Con esto en mente queda claro que todos los objetivos de la empresa, entre ellos los de mercadeo, se deben poder medir.<br> <br> La redacción de un objetivo medible podría ser: <br> <br> 
             ul.lista-ul
                   li
@@ -247,7 +246,7 @@
               .col-xxl-6.col-lg-6.col-md-9.col-sm-10.col-10
                 h4 2. Adquisición
                 p Los servicios solo se hacen tangibles hasta el instante en que son consumidos, es decir, si no hay un cliente que lo utilice, el servicio no existe. Esta particularidad es la que hace que un hotel (alojamiento) sea un servicio y no un producto.
-                p Y es que las habitaciones, las camas, las zonas públicas están allí, esté o no el cliente, pero solo al momento en que el cliente hace uso del servicio este se materializa. Mientras que una botella de agua en una máquina de vending o en un escaparate del supermercado está allí, se compre o no.
+                p Y es que las habitaciones, las camas, las zonas públicas están allí, esté o no el cliente, pero solo al momento en que el cliente hace uso del servicio este se materializa. Mientras que una botella de agua en una máquina de <em>vending</em> o en un escaparate del supermercado está allí, se compre o no.
               .col-xxl-5.col-lg-5.col-md-6.col-sm-7.col-8
                 img(src='@/assets/curso/tema1/img24.svg')
           div(x="80%" y="52.5%" tooltip="Click para leer mas..." numero=" ")
@@ -361,7 +360,7 @@
         ImagenInfograficaB.color-secundario.mb-5
           template(v-slot:imagen)
             figure
-              img(src='@/assets/curso/tema1/img36.svg')
+              img(src='@/assets/curso/tema1/img36.svg').p-5
           div(x="59%" y="58.7%" tooltip="Click para leer mas..." numero=" ")
             .row.justify-content-center.align-items-center
               .col-xxl-6.col-lg-6.col-md-9.col-sm-10.col-10
@@ -381,7 +380,7 @@
             .row.justify-content-center.align-items-center
               .col-xxl-6.col-lg-6.col-md-9.col-sm-10.col-10
                 h4 3. Promoción 
-                p En este apartado se habla de las acciones necesarias para poner el producto al alcance del cliente y poder venderlo. Integra todas las actividades logísticas y los diferentes canales de distribución disponibles (propios como una tienda online en la #[em web] corporativa o de terceros como las ventas a través de <em>Marketplace</em>). 
+                p En este apartado se habla de las acciones necesarias para poner el producto al alcance del cliente y poder venderlo. Integra todas las actividades logísticas y los diferentes canales de distribución disponibles (propios como una tienda #[em online] en la #[em web] corporativa o de terceros como las ventas a través de <em>Marketplace</em>). 
               .col-xxl-4.col-lg-4.col-md-6.col-sm-7.col-8
                 img(src='@/assets/curso/tema1/img40.svg')
           div(x="59%" y="29%" tooltip="Click para leer mas..." numero=" ")
@@ -417,8 +416,8 @@
               p El hotel ABC puede decidir centrar todos sus esfuerzos digitales en promocionar únicamente planes fin de semana <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> con un importante descuento <span style="color:#EB6F2D!important; font-weight:bold;">(precio)</span>, utilizando exclusivamente #[e Google AdWords] <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span> a través de su página #[em web] <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> para fortalecer las ventas del fin de semana. 
               p Mientras que el hotel XYZ ha optado por ofrecer todo su portafolio completo <span style="color:#EB6F2D!important; font-weight:bold;">(producto)</span> a través de un #[em marketplace] <span style="color:#EB6F2D!important; font-weight:bold;">(distribución)</span> al mismo precio de su sitio #[em web] (precio), presentando este nuevo proyecto mediante un gran evento con #[em bloggers] y periodistas <span style="color:#EB6F2D!important; font-weight:bold;">(promoción)</span>.
             .col-lg-3.d-flex.justify-content-center.align-items-center
-              img(src='@/assets/curso/tema1/img41.png')
-            .row.justify-content-center
+              img(src='@/assets/curso/tema1/img41.png').mb-5
+            .row.justify-content-center.mb-5
               .cajon.puntacajon.p-4.mb-0.bg3.sombracajon
                h4 Evolución de las 4P’s en el #[em marketing mix]
                 p Así como ha evolucionado el internet y la metamorfosis de los clientes, el mercado también ha tenido una transformación, tomando como base la conceptualización de las cuatro (4) P’s, de McCarthy, otros autores han ido añadiendo valor y variables a este concepto de acuerdo a las perspectivas y enfoques de cada uno.
@@ -479,7 +478,7 @@
           .col-lg-6.col-md-10.mb-4.mb-md-0
             h4 (P7) Evidencia física <em>(Physical evidence)</em>
             p Todos los elementos del entorno de una organización deben proporcionar un ambiente acogedor al cliente. Se ponen de manifiesto tópicos como equipos, instalaciones, uniformes, identidad visual. Inclusive se puede mencionar nuevas tendencias como el #[e marketing] olfativo o sensorial, cuyo objeto es crear o reforzar una experiencia positiva de cara al cliente, a través de los sentidos. Si lo contextualiza podrá ver que esta idea en particular toca con bastante intensidad a la industria turística.
-            p Adicionalmente a las empresas de servicio, se les pide mostrar evidencias físicas de sus servicios ya sea con fotos, videos, estadísticas etc., que confirmen y den al cliente la seguridad de comprar el servicio que ofrece la empresa.
+            p Adicionalmente a las empresas de servicio, se les pide mostrar evidencias físicas de sus servicios ya sea con fotos, videos, estadísticas, etc., que confirmen y den al cliente la seguridad de comprar el servicio que ofrece la empresa.
           .col-lg-6.col-md-8
             figure
               img(src='@/assets/curso/tema1/img50.png')
@@ -551,23 +550,23 @@
                 .col.mb-3.mb-sm-0
                   p El análisis de la cadena de valor es otro modelo teórico que permite representar la secuencia de procesos que sigue una empresa para generar valor a sus clientes y obtener un beneficio empresarial.
     .row.fondo2.justify-content-center.mb-5.ampliarambos
-      .col-lg-11
+      .col-lg-11.p-5
         img(src='@/assets/curso/tema1/img57.svg')
     p.mb-5 Esta metodología divide las actividades productivas desarrolladas por la empresa en primarias y secundarias, como se explica en la siguiente figura:
     .titulo-sexto.color-acento-contenido
       h5 Figura 2.
       span  División de las actividades productivas
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-6.col-md-8.col-sm-10.col-12.col-lg.mb-5.mb-lg-0(data-aos="fade-up-left")
-        .tarjeta-avatar.p-5
+      .col-lg-6(data-aos="fade-up-left")
+        .tarjeta-avatar.mb-5
           img.sizeimg(src='@/assets/curso/tema1/img58.svg')
           .tarjeta.fondo8.p-5 
-            p.p-5 Todas aquellas específicas de su actividad y fundamentales para desarrollar su producto/servicio.
+            p.ps-5 Todas aquellas específicas de su actividad y fundamentales para desarrollar su producto/servicio.
       .col-lg-6.col-md-8.col-sm-10.col-12.col-lg.mb-5.mb-lg-0(data-aos="fade-up-right")
-        .tarjeta-avatar.p-4
+        .tarjeta-avatar.mb-5
           img.sizeimg(src='@/assets/curso/tema1/img59.svg')
           .tarjeta.fondo9.p-5 
-            p.p-5 Aquellas que soportan las primeras y necesariamente se desarrollan en cualquier empresa, independientemente de su sector de actividad como recursos humanos o contabilidad.
+            p.ps-5 Aquellas que soportan las primeras y necesariamente se desarrollan en cualquier empresa, independientemente de su sector de actividad como recursos humanos o contabilidad.
     p.mb-5 Porter describe las actividades primarias como las directamente vinculadas a la producción y distribución de productos/servicios que generan valor para el cliente, fundamentalmente logística de entrada, operaciones, logística de salida, ventas, #[em marketing] y servicio. En este modelo analítico se hace uso del #[em benchmarking], comparando los procesos de su negocio con los de los competidores y así identificar fuentes de ventaja competitiva.
     .bloque-texto-g.bg7.p-3.p-sm-4.p-md-5(data-aos="fade-up-left")
       .bloque-texto-g__img(
