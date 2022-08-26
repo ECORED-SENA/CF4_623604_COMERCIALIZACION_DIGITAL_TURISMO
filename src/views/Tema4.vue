@@ -22,7 +22,7 @@
           SlyderA.otroslide2(tipo="b")
             .row
               .col-lg-12.col-md-12.mb-4.mb-md-0.px-4
-                p.mt-5 #[b Cuando no conocen la marca recurren principalmente a los buscadores (Google, Yahoo, Bing, MSN) y los diferentes distribuidores <em>online</em>  lo hacen a través de diferentes parámetros de búsqueda como pueden ser:]
+                p.mt-5 #[b Cuando no conocen la marca recurren principalmente a los buscadores (Google, Yahoo, Bing, MSN) y los diferentes distribuidores #[i online]  lo hacen a través de diferentes parámetros de búsqueda como pueden ser]:
               .col-lg-6.col-md-4.col-5.px-4
                 ul.lista-ul--color
                   li
@@ -42,18 +42,18 @@
                   img(src='@/assets/curso/tema4/img03.png')
             .row
               .col-lg-12.col-md-12.mb-4.mb-md-0.px-4
-                p.mt-5 #[b A nivel del mundo #[i online] (Internet) las principales vías por las que un viajero llega a un hotel son:]
+                p.mt-5 #[b A nivel del mundo #[i online] (Internet) las principales vías por las que un viajero llega a un hotel son]:
               .col-lg-6.col-md-4.col-5.px-4.align-items-center
                 ul.lista-ul--color
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    p <em>Web</em>  de la propiedad.
+                    p <em>Web</em> de la propiedad.
                   li
                     i.fas.fa-check(style="color: #ED7D41")
                     p Agencias de viaje <em>online</em> (OTA’s).
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    p Metabuscadores  <em>(Trivago, Kayak, Skyscanner, Tripadvisor)</em>
+                    p Metabuscadores <em>(Trivago, Kayak, Skyscanner, Tripadvisor)</em>
                   li
                     i.fas.fa-check(style="color: #ED7D41")
                     p  Distribuidores <em>online</em>. 
