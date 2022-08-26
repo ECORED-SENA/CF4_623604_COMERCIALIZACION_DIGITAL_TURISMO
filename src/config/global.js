@@ -306,7 +306,11 @@ export default {
   referencias: [
     {
       referencia:
-        'Cooper, A. (2004). The inmates are running the Asylum. Indianapolis Sams Publishing   Jiménez,  L. (2021). Cómo definir objetivos de marketing y cumplirlos.',
+        'Cooper, A. (2004). The inmates are running the Asylum. Indianapolis Sams Publishing.',
+    },
+    {
+      referencia:
+        'Jiménez, L. (2021). Cómo definir objetivos de marketing y cumplirlos.',
       link: 'https://www.luciajimenezvida.es/definir-objetivos-de-marketing/',
     },
     {
