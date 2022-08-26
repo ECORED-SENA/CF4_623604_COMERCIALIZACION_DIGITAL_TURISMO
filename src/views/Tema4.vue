@@ -17,8 +17,7 @@
             p Se dice que un canal de distribución es directo cuando la relación se establece directamente entre el productor del bien o servicio y su consumidor final o indirecto cuando existen intermediarios.
             p Solo a manera de mención se seguirá con el ejemplo de la industria hotelera, cuando los clientes buscan alojamiento en un hotel lo hacen a través de los diferentes canales y opciones disponibles, en el caso de que el cliente conozca la marca, lo natural es que busquen por el nombre del hotel, pero esto no siempre es así, aunque para los hoteles sería lo ideal. 
     .row.justify-content-center.alineacion.mb-5
-      .col-xxl-8.col-xl-8.col-lg-8.col-md-10.col-sm-11.col-11(data-aos="fade-up-right")
-        //-slider    
+      .col-xxl-8.col-xl-8.col-lg-8.col-md-10.col-sm-11.col-11(data-aos="fade-up-right")    
         .tarjeta.tarjeta--gris.px-4.my-4.pt-4
           SlyderA.otroslide2(tipo="b")
             .row
@@ -43,7 +42,7 @@
                   img(src='@/assets/curso/tema4/img03.png')
             .row
               .col-lg-12.col-md-12.mb-4.mb-md-0.px-4
-                p.mt-5 #[b A nivel del mundo <em>online</em> (Internet) las principales vías por las que un viajero llega a un hotel son:]
+                p.mt-5 #[b A nivel del mundo #[i online] (Internet) las principales vías por las que un viajero llega a un hotel son:]
               .col-lg-6.col-md-4.col-5.px-4.align-items-center
                 ul.lista-ul--color
                   li
@@ -54,16 +53,16 @@
                     p Agencias de viaje <em>online</em> (OTA’s).
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    p Metabuscadores #[i (Trivago, Kayak, Skyscanner, Tripadvisor)].
+                    p Metabuscadores  <em>(Trivago, Kayak, Skyscanner, Tripadvisor)</em>
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    p  Distribuidores #[i online]. 
+                    p  Distribuidores <em>online</em>. 
                   li
                     i.fas.fa-check(style="color: #ED7D41")
-                    | Portales de viajes y portales de destino turístico.
+                    p Portales de viajes y portales de destino turístico.
               .col-lg-6.col-md-4.col-5.px-4
                 figure
-                  img(src='@/assets/curso/tema4/img04.png')
+                  img(src="@/assets/curso/tema4/img04.png")
       .col-xxl-4.col-xl-4.col-lg-4.col-md-4.col-sm-11.col-11(data-aos="fade-up-left")
         img.altura.mt-4(src="@/assets/curso/tema4/img02.svg")
     p La siguiente figura clarifica aún más este proceso “decisorio” de clientes, de acuerdo con el interés que manifiesten en su escogencia. 

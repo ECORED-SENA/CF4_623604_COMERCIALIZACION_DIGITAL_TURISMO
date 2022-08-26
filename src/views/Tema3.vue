@@ -9,7 +9,7 @@
     .row.justify-content-center
       .col-xxl-12.px-5
         .row.justify-content-center
-          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right").m-4
+          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right").mb-4
             img.mt-4(src='@/assets/curso/tema3/img01.png')
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-left")
             p Hasta el momento se ha realizado el análisis de la empresa o emprendimiento a nivel interno y externo; #[span.etiqueta se ha podido determinar fortalezas, debilidades, amenazas y oportunidades, y se ha complementado este análisis con la comprensión de nuestro producto o servicio y del cliente ideal para él]. Pero sería lógico suponer que quizás no se esté solo en el mercado. 
@@ -229,7 +229,20 @@
             td Muchas empresas con productos diferenciados
             td.text-center Se presenta control si se logra una característica diferencial marcada
             td.text-center Sector comida rápida
-    p Estos conceptos se explican con mayor profundidad en el documento anexo Capítulo 5 del libro Economía y turismo de Mochón.
+    .row.justify-content-around.align-items-center(data-aos="fade-up-left")
+      .col-xxl-10.col-xl-10.col-11.col-md-11
+        .tarjeta.bg8.p-3.mb-5
+          .row.justify-content-center.align-items-center
+            .col-3.col-sm-2.col-lg-1
+              img(src="@/assets/curso/tema3/img11.svg")
+            .col
+              .row.justify-content-between.align-items-center
+                .col.mb-3.mb-sm-0
+                  p Estos conceptos se explican con mayor profundidad en el documento anexo Capítulo 5 del libro Economía y turismo de Mochón.
+                .col-sm-auto
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/anexo3.pdf')" target="_blank")
+                    span Descargar
+                    i.fas.fa-file-download
     separador
     #t_3_5.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
       h2 3.5 <em>Benchmarking</em>, concepto, características y herramientas
