@@ -9,7 +9,7 @@
     .row.justify-content-center(data-aos="fade-right")
       .col-xxl-12.px-5
         .row.justify-content-center
-          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11
+          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11.mb-4
             img.mt-4(src='@/assets/curso/tema2/img01.png')
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-left")
             p Cuando se habla de macroentorno de la empresa se hace referencia a todos los aspectos que están alrededor y que pueden afectar, a pesar de no encontrarse exclusivamente en su sector. Se contrapone con el microentorno, principalmente porque este último tiene un enfoque más concreto.
@@ -29,7 +29,7 @@
       .col-xxl-3.col-lg-3.col-md-5.col-9.fondo3.mb-4
         h4.text-white.text-center.pt-2.pb-3.mb-0 Análisis externo
     .row.justify-content-center.align-items-center
-      .col-xxl-6.col-lg-6.col-md-10.col-sm-11.col-11.mb-5.mb-md-0(data-aos="fade-up-left")
+      .col-xxl-6.col-lg-6.col-md-10.col-sm-11.col-11.mb-5(data-aos="fade-up-left")
         LineaTiempoD
           p(numero="P" titulo="Factores políticos <em>(Political)</em>") Un ejemplo de esto es cuando el gobierno a final de 2020 (3 de diciembre), decretó algunas medidas de alivio tributario para el sector turístico. Algunas de estas fueron: a) La reducción del 19% al 5% en el IVA en los tiquetes aéreos; b) El no cobro de IVA a los hoteles durante 2021, c) La suspensión transitoria del pago de la sobretasa a la energía; y d) la eliminación al pago de la sanción para la reactivación del Registro Nacional de Turismo (RNT).
           p(numero="E" titulo="Factores económicos <em>(Economic)</em>") Recientemente (julio de 2021) Colombia perdió el grado de inversión y entre las consecuencias se podría presentar a) presión alcista al dólar, b) aumento en la deudas adquiridas en dólares, c) disminución de la inversión extranjera, d) aumento en las tasas de interés. Todos estos factores podrían afectar a empresas o emprendimientos del sector turismo.
@@ -49,7 +49,7 @@
         .row.justify-content-center.mb-5
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-left")
             p Tras realizar los análisis externo e interno ya se está en condiciones de desarrollar el análisis DOFA. Esta es una matriz que permite relacionar las amenazas y oportunidades (análisis externo) con las fortalezas y debilidades (análisis interno). 
-            .col-xxl-6.col-xl-12.col-lg-6.col-md-8.col-sm-11.col-12.bg4(data-aos="fade-up-left").p-3
+            .bg4(data-aos="fade-up-left").p-3
               p Las oportunidades y amenazas tienen su origen en situaciones que no dependen de la organización, por ejemplo, factores competitivos y económicos; sin embargo, los encargados de la organización deben tener la capacidad de enfrentar estas condiciones sin que haya problemas internos. De otro lado, las fortalezas y debilidades son variables controladas por la organización, aspectos como el servicio al cliente, las características del producto y la planeación son un ejemplo de ello. Ver figura 3.
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right")
             img.mt-4(src='@/assets/curso/tema2/img05.png')
@@ -155,7 +155,7 @@
         .row.p-3.mb-5
           h4.text-center.text-dark Fuentes de ingresos
           p.p-2.text-dark Cómo se van a generar ingresos el modelo de negocio desarrollado en el Modelo Canvas.
-    .row.justify-content-around.align-items-center(data-aos="fade-up-left")
+    .row.justify-content-around.align-items-center
       .col-xxl-10.col-xl-10.col-11.col-md-11
         .tarjeta.bg6.p-3.mb-5
           .row.justify-content-center.align-items-center

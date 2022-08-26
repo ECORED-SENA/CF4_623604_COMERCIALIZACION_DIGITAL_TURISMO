@@ -146,7 +146,7 @@
             .col-12.ps-5
               p.mb-0 Si bien la idea de dirigirse a todo un mercado resulta atractiva, también es cierto que esto puede diluir la propuesta del negocio. 
               p.mb-4 Determinar los segmentos más específicos permite enfocar los esfuerzos, potenciando una mejora de los productos o servicios. Además, este modelo facilita la gestión del cambio ante variaciones del mercado que de otra manera pueden traducirse en pérdidas (PostgradoUTP, 2021).
-      .col-lg-5
+      .col-lg-5.mb-5
         figure
           img(src='@/assets/curso/tema1/img13.png' style="width: 550px").m-auto
       p.mb-4 En este momento y antes de continuar por un momento cierre los ojos y piense en el negocio que tiene o le gustaría tener, con ese insumo transpórtese al momento donde su negocio debe destacarse en el mercado, y pregúntese <span style="color:#4CA3F7 !important; font-weight:bold;">¿cómo logra destacarse del resto?</span>
@@ -227,8 +227,8 @@
       .col-xxl-5.col-lg-5.col-md-5.col-9.fondo3.mb-4
        h4.text-white.text-center.pt-2.pb-3.mb-0 Diferencias clave entre productos y servicios
     .row.ampliarambos
-      .col-xxl-12.px-4(data-aos="fade-up-left")
-        ImagenInfograficaB.color-secundario.mb-0
+      .col-xxl-12.px-5(data-aos="fade-up-left")
+        ImagenInfograficaB.color-secundario.mb-5.mb-lg-0
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema1/img22.svg')
@@ -357,18 +357,18 @@
     p.mb-5 Para lograr estructurar este apartado se debe hablar del concepto de #[span.etiqueta #[em marketing mix] o mezcla de mercadeo, que se define como el conjunto de herramientas sobre las que se concretan los objetivos y metas.] Estas variables se identifican como las 4 P’s del mercadeo por su nombre en inglés, estas fueron denominadas así por <span style="color:#EB6F2D!important; font-weight:bold;">Jerome McCarthy</span> en 1960 y se encuentran descritas en el siguiente recurso educativo: 
     .row.ampliarambos
       .col-xxl-12.px-0(data-aos="fade-up-left")
-        ImagenInfograficaB.color-secundario.mb-5
+        ImagenInfograficaB.color-secundario.mb-5.mb-lg-0
           template(v-slot:imagen)
             figure
               img(src='@/assets/curso/tema1/img36.svg').p-5
-          div(x="59%" y="58.7%" tooltip="Click para leer mas..." numero=" ")
+          div(x="58%" y="56.7%" tooltip="Click para leer mas..." numero=" ")
             .row.justify-content-center.align-items-center
               .col-xxl-6.col-lg-6.col-md-9.col-sm-10.col-10
                 h4.text-dark 1. Producto
                 p Bajo este ítem se agrupan todas las decisiones de mercadeo que configuran y adaptan el producto, con el objetivo de satisfacer las necesidades del segmento de cliente al que se dirige. Aquí se desarrollan los atributos, se resaltan los diferenciadores y se establecen las bases de su posicionamiento competitivo.
               .col-xxl-4.col-lg-4.col-md-6.col-sm-7.col-8
                 img(src='@/assets/curso/tema1/img37.svg')
-          div(x="82.3%" y="55%" tooltip="Click para leer mas..." numero=" ")
+          div(x="80.1%" y="54%" tooltip="Click para leer mas..." numero=" ")
             .row.justify-content-center.align-items-center
               .col-xxl-6.col-lg-6.col-md-9.col-sm-10.col-10
                 h4 2. Precio
@@ -376,14 +376,14 @@
 
               .col-xxl-5.col-lg-5.col-md-6.col-sm-7.col-8
                 img(src='@/assets/curso/tema1/img38.svg')
-          div(x="81%" y="22%" tooltip="Click para leer mas..." numero=" ")
+          div(x="78.5%" y="26%" tooltip="Click para leer mas..." numero=" ")
             .row.justify-content-center.align-items-center
               .col-xxl-6.col-lg-6.col-md-9.col-sm-10.col-10
                 h4 3. Promoción 
                 p En este apartado se habla de las acciones necesarias para poner el producto al alcance del cliente y poder venderlo. Integra todas las actividades logísticas y los diferentes canales de distribución disponibles (propios como una tienda #[em online] en la #[em web] corporativa o de terceros como las ventas a través de <em>Marketplace</em>). 
               .col-xxl-4.col-lg-4.col-md-6.col-sm-7.col-8
                 img(src='@/assets/curso/tema1/img40.svg')
-          div(x="59%" y="29%" tooltip="Click para leer mas..." numero=" ")
+          div(x="58%" y="32%" tooltip="Click para leer mas..." numero=" ")
             .row.justify-content-center.align-items-center
               .col-xxl-6.col-lg-6.col-md-9.col-sm-10.col-10
                 h4.text-dark 4. Punto de distribución 
@@ -557,18 +557,15 @@
       h5 Figura 2.
       span  División de las actividades productivas
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-6(data-aos="fade-up-left")
-        .tarjeta-avatar.mb-5
-          img.sizeimg(src='@/assets/curso/tema1/img58.svg')
-          .tarjeta.fondo8.p-5 
-            p.ps-5 Todas aquellas específicas de su actividad y fundamentales para desarrollar su producto/servicio.
-      .col-lg-6.col-md-8.col-sm-10.col-12.col-lg.mb-5.mb-lg-0(data-aos="fade-up-right")
-        .tarjeta-avatar.mb-5
-          img.sizeimg(src='@/assets/curso/tema1/img59.svg')
-          .tarjeta.fondo9.p-5 
-            p.ps-5 Aquellas que soportan las primeras y necesariamente se desarrollan en cualquier empresa, independientemente de su sector de actividad como recursos humanos o contabilidad.
+      .col-12.col-md-4.mb-3.mb-md-0
+        figure
+          img(src='@/assets/curso/tema1/img60.svg', alt='Texto que describa la imagen')
+      .col-12.col-md-4
+        figure
+          img(src='@/assets/curso/tema1/img61.svg', alt='Texto que describa la imagen')
+
     p.mb-5 Porter describe las actividades primarias como las directamente vinculadas a la producción y distribución de productos/servicios que generan valor para el cliente, fundamentalmente logística de entrada, operaciones, logística de salida, ventas, #[em marketing] y servicio. En este modelo analítico se hace uso del #[em benchmarking], comparando los procesos de su negocio con los de los competidores y así identificar fuentes de ventaja competitiva.
-    .bloque-texto-g.bg7.p-3.p-sm-4.p-md-5(data-aos="fade-up-left")
+    .bloque-texto-g.bg7.p-3.p-sm-4.p-md-5
       .bloque-texto-g__img(
         :style="{'background-image': `url(${require('@/assets/curso/tema1/img62.png')})`}"
       )

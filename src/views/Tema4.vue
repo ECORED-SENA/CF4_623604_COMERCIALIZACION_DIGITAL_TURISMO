@@ -116,7 +116,7 @@
     p De estas características se deriva la necesidad de que los mensajes de mercadeo estén adaptados tanto al medio como al dispositivo, por lo que una buena planificación estratégica es imperativa para ejecutar acciones eficaces. 
     p.mb-5 Es así como la actual realidad de nuevos medios convergentes propone una clasificación que ayudará a lograr este objetivo.
     .row(data-aos="fade-up")(columnas="col-lg-4 col-xl-4")
-    .row.mb-5.justify-content-center(data-aos="fade-up-left")
+    .row.mb-5.justify-content-center
       .col-sm-6.col-xl-4.mb-4.mb-xl-4
         .tarjeta.color-acento-contenido.bg9.tranform1.h-100.hoverScale2
           .row.justify-content-center

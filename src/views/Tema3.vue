@@ -9,7 +9,7 @@
     .row.justify-content-center
       .col-xxl-12.px-5
         .row.justify-content-center
-          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right")
+          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right").m-4
             img.mt-4(src='@/assets/curso/tema3/img01.png')
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-left")
             p Hasta el momento se ha realizado el análisis de la empresa o emprendimiento a nivel interno y externo; #[span.etiqueta se ha podido determinar fortalezas, debilidades, amenazas y oportunidades, y se ha complementado este análisis con la comprensión de nuestro producto o servicio y del cliente ideal para él]. Pero sería lógico suponer que quizás no se esté solo en el mercado. 
@@ -137,7 +137,7 @@
               p A manera de ejemplo, el turismo es una industria que, aunque se ubica localmente, a través de la presencia <em>online</em> tiene posibilidad de vender sus servicios a nivel internacional.
               p Por esta razón, quizá un destino o empresa en particular tenga sus competidores, no a la vuelta de la esquina o en la misma ciudad, sino a varios miles de kilómetros. 
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right")
-            img.mt-4(src='@/assets/curso/tema3/img08.png')
+            img.mt-4(src='@/assets/curso/tema3/img08.png').mb-4
     p.mb-0 Al final la recomendación es que en virtud del tamaño y lugar de operación de la empresa o emprendimiento se cubran el número de niveles de competencia que corresponda.
     separador
     #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-down-right")
@@ -236,7 +236,7 @@
     .row.justify-content-center
       .col-xxl-12.px-5
         .row.justify-content-center.align-items-center
-          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right")
+          .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-right").mb-5
             img.mt-4(src='@/assets/curso/tema3/img13.png')
           .col-xxl-6.col-xl-6.col-lg-6.col-md-8.col-sm-11.col-11(data-aos="fade-up-left")
             p El <em>benchmarking</em> o "evaluación comparativa" ocurre alrededor del mundo, en múltiples industrias y en la vida diaria. Seguramente cuando va a hacer una compra, antes de comprar, primero investiga un poco y compara los productos en cuanto a características, precio y calidad, esto en esencia es <em>benchmarking</em>. Esta disciplina es muy relevante en la industria turística, donde constituye la base de trabajo para la analítica de desempeño, el <em>business intelligence</em> y el <em>revenue management.</em>
@@ -250,10 +250,10 @@
           .col-lg-10
             .titulo-sexto.color-acento-contenido
               h5 Figura 5. <em>Características del benchmarking</em>
-          .col-lg-10
+          .col-lg-10.p-5
             img(src='@/assets/curso/tema3/img15.svg')
     .row.justify-content-center.align-items-center.fondo13.ampliarambos.mb-0.p-5
-      .col-xxl-6.col-xl-6.col-lg-5.col-md-11.col-sm-11.col-11.px-5(data-aos="fade-up-left")
+      .col-xxl-6.col-xl-6.col-lg-5.col-md-11.col-sm-11.col-11.px-5(data-aos="fade-up-left").mb-4
         img(src='@/assets/curso/tema3/img17.png')
       .col-xxl-6.col-xl-6.col-lg-7.col-md-11.col-sm-11.col-11.px-5(data-aos="fade-up-right")
         p.mb-3 Es claro que medir y comparar el desempeño es un factor relevante en cualquier empresa. Esto no es distinto en la industria turística, en ella los indicadores clave de desempeño se aplican en las mediciones de rendimiento en operación, comercialización y mercadeo. Ahora tomando como referencia el <em>benchmarking</em> de la industria hotelera para medir se puede decir que los indicadores clave de desempeño de la industria son:
@@ -280,11 +280,11 @@
             i.fas.fa-check(style="color: #ED7D41")
             p.mb-0 <em>RevPar</em>.
         p.mb-3 La preocupación por medir y comparar resultados, como ya se mencionó es un hecho subyacente a todas las industrias. Y ahora que se está inmerso en un mundo regido por los datos, la siguiente pregunta que se debe contestar es qué herramienta se debe utilizar para este análisis. La respuesta no es sencilla, ya que como se mencionó, las comparativas y mediciones se aplican en todos los niveles de las industrias (operativo, comercial, y de mercadeo). 
-        p.mb-0 Dicho esto, se puede mencionar que existen herramientas <em>(software)</em> que permiten captar, organizar y analizar datos a gran escala, que se podrían utilizar de acuerdo con la necesidad específica. Por ahora solo se menciona.
+        p.mb-4 Dicho esto, se puede mencionar que existen herramientas <em>(software)</em> que permiten captar, organizar y analizar datos a gran escala, que se podrían utilizar de acuerdo con la necesidad específica. Por ahora solo se menciona.
       .col-xxl-6.col-xl-6.col-lg-5.col-md-11.col-sm-11.col-11.px-5(data-aos="fade-up-left")
         img(src='@/assets/curso/tema3/img18.png')
     .row.justify-content-center.align-items-center.mb-5
-      .col-lg-5.bg3.me-4.py-2
+      .col-lg-5.bg3.me-4.py-2.mb-5.mb-lg-0
         .row.align-items-center
           .col-lg-2
             img.tamimg(src='@/assets/curso/tema3/img19.svg', alt='Texto que describa la imagen')
@@ -338,7 +338,7 @@
             i.fas.fa-check(style="color: #ED7D41")
             p.mb-0 Que sea accionable.
       .col-xxl-6.col-xl-6.col-lg-5.col-md-11.col-sm-11.col-11.px-5(data-aos="fade-up-left")
-        img(src='@/assets/curso/tema3/img20.png')
+        img(src='@/assets/curso/tema3/img20.png').mb-4
       p.mb-0 A continuación podrá encontrar cuáles son los 5 pasos para implementar una estrategia de segmentación de mercados, los cuales permiten acertar de manera precisa en la venta de productos en el mercado que sea de interés, según el producto que desea ofrecer:
     .row.justify-content-center.align-items-center.mb-5
       .col-xxl-6.col-lg-6.col-md-10.col-sm-11.col-11.mb-5.mb-md-0(data-aos="fade-up-left")
