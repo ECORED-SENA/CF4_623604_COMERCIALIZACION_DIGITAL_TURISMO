@@ -191,7 +191,7 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  p Para una mejor comprensión del tema en el anexo Análisis de competencia encontrará los resultados que se han consignado en un matriz comparativa.
+                  p Para una mejor comprensión del tema en el anexo Análisis de competencia encontrará los resultados que se han consignado en una matriz comparativa.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('downloads/anexo1.xlsx')" target="_blank")
                     span Descargar
